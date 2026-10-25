@@ -221,7 +221,63 @@ const StaticApi = {
       message: `Route found from ${start} to ${end}`,
     };
   },
+
+  // Like POST /report-obstacle in demo mode: a Gemini key can't be put on a
+  // public page, so the photo is not analyzed and the report is accepted as an
+  // obstacle. Reports stay in this browser and reset when the page reloads.
+  async reportObstacle(position, description) {
+    const navigator = await this._load();
+    navigator.obstacles.push({
+      description,
+      coords: { lat: position.lat, lng: position.lng },
+      active: true,
+      ai_verified: true,
+    });
+    return {
+      analysis: {
+        is_obstacle: true,
+        obstacle_type: "demo mode (no Gemini API key, photo not analyzed)",
+        confidence: 1.0,
+        severity: "MEDIUM",
+      },
+    };
+  },
 };
+
+// Static mode: the obstacle location is chosen on the map instead of from GPS,
+// so visitors who aren't on campus can still place obstacles on the route.
+let pickedObstacleLocation = null;
+
+function showStaticObstacleLocation() {
+  document.getElementById("gpsHeading").textContent = "Obstacle Location";
+  document.getElementById("chooseLocationBtn").style.display = "inline-block";
+  const point = pickedObstacleLocation || map.getCenter();
+  currentPosition = { lat: point.lat, lng: point.lng };
+  document.getElementById("gpsCoords").innerHTML =
+    `Latitude: ${point.lat.toFixed(6)}<br>Longitude: ${point.lng.toFixed(6)}` +
+    (pickedObstacleLocation ? "" : '<br><small>Map center. Use "Choose on map" to pick a spot.</small>');
+}
+
+function chooseObstacleLocationOnMap() {
+  const popup = document.getElementById("obstaclePopup");
+  const banner = document.getElementById("pickBanner");
+  popup.classList.remove("show"); // hide without clearing the form
+  banner.style.display = "block";
+  map.once("click", (e) => {
+    pickedObstacleLocation = e.lngLat;
+    banner.style.display = "none";
+    popup.classList.add("show");
+    showStaticObstacleLocation();
+  });
+}
+
+function showObstacleMarker(position, description) {
+  const marker = new maplibregl.Marker({ color: "#ff6b35" })
+    .setLngLat([position.lng, position.lat])
+    .setPopup(new maplibregl.Popup({ offset: 12 }).setText(`Reported obstacle: ${description}`))
+    .addTo(map);
+  marker.getElement().classList.add("obstacle-marker");
+}
 
 // Export for testing under Node; no effect in the browser
 if (typeof module !== "undefined") module.exports = { StaticNavigator, MinHeap };

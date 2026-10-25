@@ -275,7 +275,7 @@ function clearRoute() {
   }
   
   // Remove existing markers (except accessibility markers)
-  const markers = document.querySelectorAll('.maplibregl-marker:not(.ada-marker)');
+  const markers = document.querySelectorAll('.maplibregl-marker:not(.ada-marker):not(.obstacle-marker)');
   markers.forEach(marker => {
     if (!marker.parentElement.classList.contains('ada-marker')) {
       marker.remove();
@@ -287,7 +287,11 @@ function clearRoute() {
 
 function openObstaclePopup() {
   document.getElementById('obstaclePopup').classList.add('show');
-  getCurrentGPS();
+  if (STATIC_MODE) {
+    showStaticObstacleLocation();
+  } else {
+    getCurrentGPS();
+  }
 }
 
 function closeObstaclePopup() {
@@ -295,6 +299,7 @@ function closeObstaclePopup() {
   document.getElementById('obstacleDescription').value = '';
   document.getElementById('photoPreview').style.display = 'none';
   document.getElementById('cameraInput').value = '';
+  if (STATIC_MODE) pickedObstacleLocation = null;
 }
 
 function triggerCamera() {
@@ -365,6 +370,15 @@ async function submitObstacle() {
     const center = map.getCenter();
     currentPosition = { lat: center.lat, lng: center.lng };
     //alert('GPS location is required. Please wait for location to be detected.');
+  }
+
+  if (STATIC_MODE) {
+    // No server on the static site: record the report in this browser (demo mode)
+    const result = await StaticApi.reportObstacle(currentPosition, description);
+    alert(`Obstacle detected!\nType: ${result.analysis.obstacle_type}\nConfidence: ${result.analysis.confidence}\n\nGet Directions again to see the route avoid it.`);
+    showObstacleMarker(currentPosition, description);
+    closeObstaclePopup();
+    return;
   }
 
   const submitBtn = document.querySelector('.submit-btn');

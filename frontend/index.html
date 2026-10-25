@@ -276,6 +276,31 @@
     .maplibregl-popup-content {
       font: 13px/1.45 system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, sans-serif;
     }
+    .choose-location-btn { /* static (GitHub Pages) mode only */
+      display: none;
+      margin-top: 10px;
+      padding: 8px 14px;
+      background: #0052a5;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      font-size: 14px;
+      cursor: pointer;
+    }
+    .pick-banner {
+      display: none;
+      position: absolute;
+      bottom: 30px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #333;
+      color: white;
+      padding: 12px 20px;
+      border-radius: 8px;
+      font-size: 16px;
+      z-index: 1500;
+      pointer-events: none;
+    }
     .coord {
       font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
       font-size: 12px; color: #666;
@@ -286,6 +311,7 @@
 </head>
 <body>
   <div id="map"></div>
+  <div class="pick-banner" id="pickBanner">Tap the map where the obstacle is</div>
   
 
   <div class="route-controls">
@@ -337,10 +363,11 @@
       </div>
       
       <div class="gps-section">
-        <h3> Current GPS Coordinates</h3>
+        <h3 id="gpsHeading"> Current GPS Coordinates</h3>
         <div class="gps-coords" id="gpsCoords">
           Getting location...
         </div>
+        <button type="button" class="choose-location-btn" id="chooseLocationBtn" onclick="chooseObstacleLocationOnMap()">Choose on map</button>
       </div>
       
       <div class="submit-section">
