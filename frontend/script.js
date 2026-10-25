@@ -21,9 +21,13 @@ function errorLocation() {
 
 async function loadAvailableBuildings() {
   try {
-    const response = await fetch('http://127.0.0.1:8000/buildings');
-    const data = await response.json();
-    availableBuildings = data.buildings;
+    if (STATIC_MODE) {
+      availableBuildings = await StaticApi.buildings();
+    } else {
+      const response = await fetch('http://127.0.0.1:8000/buildings');
+      const data = await response.json();
+      availableBuildings = data.buildings;
+    }
     
     // Set up autocomplete for building inputs
     setupBuildingAutocomplete();
@@ -175,14 +179,19 @@ async function getDirections() {
   button.disabled = true;
   
   try {
-    const response = await fetch(`http://127.0.0.1:8000/directions?start=${encodeURIComponent(fromBuilding)}&end=${encodeURIComponent(toBuilding)}`);
-    
-    if (!response.ok) {
-      const errorData = await response.json();
-      throw new Error(errorData.detail || `HTTP ${response.status}`);
+    let routeData;
+    if (STATIC_MODE) {
+      routeData = await StaticApi.directions(fromBuilding, toBuilding);
+    } else {
+      const response = await fetch(`http://127.0.0.1:8000/directions?start=${encodeURIComponent(fromBuilding)}&end=${encodeURIComponent(toBuilding)}`);
+      
+      if (!response.ok) {
+        const errorData = await response.json();
+        throw new Error(errorData.detail || `HTTP ${response.status}`);
+      }
+      
+      routeData = await response.json();
     }
-    
-    const routeData = await response.json();
     
     if (routeData.path_found && routeData.route_coordinates.length > 0) {
       // Clear any existing route
@@ -413,6 +422,7 @@ async function submitObstacle() {
 
 // Add function to check Gemini service status
 async function checkGeminiStatus() {
+  if (STATIC_MODE) return false; // no backend on the static site
   try {
     const response = await fetch('http://127.0.0.1:8000/gemini-status');  // ✅ absolute URL
     const status = await response.json();
