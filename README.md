@@ -26,6 +26,9 @@
 **BetterPath** is a navigation app that allows users to upload photos of hazards to further inform navigation and ETA.  
 The project was designed with **accessibility in mind**, helping users find the nearest accessible entrance.  
 
+**Live demo:** https://ingoldsimone.github.io/BetterPath/  
+> The live demo runs entirely in the browser: routes come from the bundled campus graph, and obstacle reports run in demo mode (photos are not analyzed) and reset when the page reloads. In the report popup, use **Choose on map** to place an obstacle on a route, then get directions again to see the route avoid it.  
+
 ---
 
 ## 📂 Project Structure  
@@ -65,6 +68,7 @@ The project was designed with **accessibility in mind**, helping users find the 
 ### Frontend  
 - `script.js`  
 - `index.html`  
+- `static-demo.js` — browser-only routing and demo-mode reports for static hosting (GitHub Pages)  
 > Provides a **MapLibre-powered** user interface for navigation.  
 
 ### Optional Features  
@@ -95,6 +99,13 @@ The backend also serves the frontend, so one command starts everything:
 .venv/bin/python -m uvicorn fastAPI:app --port 8000
 ```
 Then open http://127.0.0.1:8000/frontend/index.html. Use port 8000: the frontend expects the API there.
+
+### Static Mode (GitHub Pages)  
+The frontend can also run without the backend, as on the live demo. Static mode turns on automatically on `github.io`. To try it locally, serve the repository root and add `?static` to the URL:
+```bash
+python3 -m http.server 8080
+```
+Then open http://127.0.0.1:8080/frontend/index.html?static.
 
 ### Optional Environment Variables  
 - `MONGO_URI` — MongoDB connection string. Without it, the app uses the graph in `data/` and keeps obstacle reports in memory (cleared on restart).

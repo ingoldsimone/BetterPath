@@ -1,11 +1,16 @@
-navigator.geolocation.getCurrentPosition(successLocation, errorLocation, {
-  enableHighAccuracy: true
-});
-
 let map;
 let currentPosition = null;
 let routeVisible = false;
 let availableBuildings = [];
+
+if (STATIC_MODE) {
+  // The live demo always opens on campus, wherever the visitor is
+  setupMap([-79.9532, 40.4443]);
+} else {
+  navigator.geolocation.getCurrentPosition(successLocation, errorLocation, {
+    enableHighAccuracy: true
+  });
+}
 
 function successLocation(position) {
   currentPosition = {
