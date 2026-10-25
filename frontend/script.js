@@ -1,6 +1,3 @@
-mapboxgl.accessToken =
-  "pk.eyJ1IjoiZGVpYW5vdnZ2IiwiYSI6ImNtZnR0Zm02YjBqd3kycXExMDIyZnBweTEifQ.d9eaakH2hSi0i-djIqrk0A"
-// this is vlad's key. since it is connected to my credit card, please, do not abuse it and create your own keys
 navigator.geolocation.getCurrentPosition(successLocation, errorLocation, {
   enableHighAccuracy: true
 });
@@ -65,14 +62,14 @@ function setupBuildingAutocomplete() {
 }
 
 function setupMap(center) {
-  map = new mapboxgl.Map({
+  map = new maplibregl.Map({
     container: "map",
-    style: "mapbox://styles/mapbox/streets-v11",
+    style: "https://tiles.openfreemap.org/styles/liberty",
     center: center,
     zoom: 15
   });
   
-  const nav = new mapboxgl.NavigationControl();
+  const nav = new maplibregl.NavigationControl();
   map.addControl(nav);
   
   map.on("load", () => {
@@ -149,9 +146,9 @@ function loadAccessibilityMarkers() {
       <div class="coord">[${coords[0].toFixed(5)}, ${coords[1].toFixed(5)}]</div>
     `;
 
-    new mapboxgl.Marker({ element: el })
+    new maplibregl.Marker({ element: el })
       .setLngLat(coords)
-      .setPopup(new mapboxgl.Popup({ offset: 12 }).setHTML(popupHtml))
+      .setPopup(new maplibregl.Popup({ offset: 12 }).setHTML(popupHtml))
       .addTo(map);
   });
 }
@@ -219,18 +216,18 @@ async function getDirections() {
       const startCoord = coordinates[0];
       const endCoord = coordinates[coordinates.length - 1];
       
-      new mapboxgl.Marker({ color: "green" })
+      new maplibregl.Marker({ color: "green" })
         .setLngLat(startCoord)
-        .setPopup(new mapboxgl.Popup().setHTML(`<strong>Start:</strong> ${fromBuilding}`))
+        .setPopup(new maplibregl.Popup().setHTML(`<strong>Start:</strong> ${fromBuilding}`))
         .addTo(map);
         
-      new mapboxgl.Marker({ color: "red" })
+      new maplibregl.Marker({ color: "red" })
         .setLngLat(endCoord)
-        .setPopup(new mapboxgl.Popup().setHTML(`<strong>Destination:</strong> ${toBuilding}`))
+        .setPopup(new maplibregl.Popup().setHTML(`<strong>Destination:</strong> ${toBuilding}`))
         .addTo(map);
       
       // Fit map to route bounds
-      const bounds = new mapboxgl.LngLatBounds();
+      const bounds = new maplibregl.LngLatBounds();
       coordinates.forEach(coord => bounds.extend(coord));
       map.fitBounds(bounds, { padding: 50 });
       
@@ -269,7 +266,7 @@ function clearRoute() {
   }
   
   // Remove existing markers (except accessibility markers)
-  const markers = document.querySelectorAll('.mapboxgl-marker:not(.ada-marker)');
+  const markers = document.querySelectorAll('.maplibregl-marker:not(.ada-marker)');
   markers.forEach(marker => {
     if (!marker.parentElement.classList.contains('ada-marker')) {
       marker.remove();
