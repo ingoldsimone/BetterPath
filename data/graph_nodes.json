@@ -1,0 +1,3874 @@
+[{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184d0"
+  },
+  "nodeId": "1",
+  "active": true,
+  "coordinates": {
+    "lat": 40.443263,
+    "lng": -79.959891
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184d1"
+  },
+  "nodeId": "2",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44329395,
+    "lng": -79.95984819
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184d2"
+  },
+  "nodeId": "3",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4433249,
+    "lng": -79.95980538
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184d3"
+  },
+  "nodeId": "4",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44335585,
+    "lng": -79.95976258
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184d4"
+  },
+  "nodeId": "5",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44338679,
+    "lng": -79.95971977
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184d5"
+  },
+  "nodeId": "6",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44341774,
+    "lng": -79.95967696
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184d6"
+  },
+  "nodeId": "7",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44344869,
+    "lng": -79.95963415
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184d7"
+  },
+  "nodeId": "8",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44347964,
+    "lng": -79.95959135
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184d8"
+  },
+  "nodeId": "9",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44351059,
+    "lng": -79.95954854
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184d9"
+  },
+  "nodeId": "10",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44354154,
+    "lng": -79.95950573
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184da"
+  },
+  "nodeId": "11",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44357248,
+    "lng": -79.95946292
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184db"
+  },
+  "nodeId": "12",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44360343,
+    "lng": -79.95942012
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184dc"
+  },
+  "nodeId": "13",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44363438,
+    "lng": -79.95937731
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184dd"
+  },
+  "nodeId": "14",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44366533,
+    "lng": -79.9593345
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184de"
+  },
+  "nodeId": "15",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44369628,
+    "lng": -79.95929169
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184df"
+  },
+  "nodeId": "16",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44372723,
+    "lng": -79.95924888
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184e0"
+  },
+  "nodeId": "17",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44375817,
+    "lng": -79.95920608
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184e1"
+  },
+  "nodeId": "18",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44378912,
+    "lng": -79.95916327
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184e2"
+  },
+  "nodeId": "19",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44382007,
+    "lng": -79.95912046
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184e3"
+  },
+  "nodeId": "20",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44385102,
+    "lng": -79.95907765
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184e4"
+  },
+  "nodeId": "21",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44388197,
+    "lng": -79.95903484
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184e5"
+  },
+  "nodeId": "22",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44391292,
+    "lng": -79.95899203
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184e6"
+  },
+  "nodeId": "23",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44394386,
+    "lng": -79.95894923
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184e7"
+  },
+  "nodeId": "24",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44397481,
+    "lng": -79.95890642
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184e8"
+  },
+  "nodeId": "25",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44400576,
+    "lng": -79.95886361
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4a9a7bd560c3fd184e9"
+  },
+  "nodeId": "26",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44403671,
+    "lng": -79.9588208
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd184ea"
+  },
+  "nodeId": "27",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44406766,
+    "lng": -79.95877799
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd184eb"
+  },
+  "nodeId": "28",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4440986,
+    "lng": -79.95873518
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd184ec"
+  },
+  "nodeId": "29",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44412955,
+    "lng": -79.95869237
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd184ed"
+  },
+  "nodeId": "30",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4441605,
+    "lng": -79.95864957
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd184ee"
+  },
+  "nodeId": "31",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44419145,
+    "lng": -79.95860676
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd184ef"
+  },
+  "nodeId": "32",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4442224,
+    "lng": -79.95856395
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd184f0"
+  },
+  "nodeId": "33",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44425335,
+    "lng": -79.95852114
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd184f1"
+  },
+  "nodeId": "34",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44428429,
+    "lng": -79.95847833
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd184f2"
+  },
+  "nodeId": "35",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44431524,
+    "lng": -79.95843552
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd184f3"
+  },
+  "nodeId": "36",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44434619,
+    "lng": -79.95839271
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd184f4"
+  },
+  "nodeId": "37",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44437714,
+    "lng": -79.9583499
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd184f5"
+  },
+  "nodeId": "38",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44440809,
+    "lng": -79.9583071
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd184f6"
+  },
+  "nodeId": "39",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44443903,
+    "lng": -79.95826429
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd184f7"
+  },
+  "nodeId": "40",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44446998,
+    "lng": -79.95822148
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd184f8"
+  },
+  "nodeId": "41",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44450093,
+    "lng": -79.95817867
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd184f9"
+  },
+  "nodeId": "42",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44453188,
+    "lng": -79.95813586
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd184fa"
+  },
+  "nodeId": "43",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44456282,
+    "lng": -79.95809305
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd184fb"
+  },
+  "nodeId": "44",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44459377,
+    "lng": -79.95805024
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd184fc"
+  },
+  "nodeId": "45",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44462472,
+    "lng": -79.95800743
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd184fd"
+  },
+  "nodeId": "46",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44465567,
+    "lng": -79.95796462
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd184fe"
+  },
+  "nodeId": "47",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44468662,
+    "lng": -79.95792181
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd184ff"
+  },
+  "nodeId": "48",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44471756,
+    "lng": -79.957879
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd18500"
+  },
+  "nodeId": "49",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44474851,
+    "lng": -79.9578362
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd18501"
+  },
+  "nodeId": "50",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44477946,
+    "lng": -79.95779339
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd18502"
+  },
+  "nodeId": "51",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44481041,
+    "lng": -79.95775058
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd18503"
+  },
+  "nodeId": "52",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44484135,
+    "lng": -79.95770777
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd18504"
+  },
+  "nodeId": "53",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4448723,
+    "lng": -79.95766496
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd18505"
+  },
+  "nodeId": "54",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44490325,
+    "lng": -79.95762215
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd18506"
+  },
+  "nodeId": "55",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4449342,
+    "lng": -79.95757934
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd18507"
+  },
+  "nodeId": "56",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44496515,
+    "lng": -79.95753653
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd18508"
+  },
+  "nodeId": "57",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44499609,
+    "lng": -79.95749372
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aaa7bd560c3fd18509"
+  },
+  "nodeId": "58",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44502704,
+    "lng": -79.95745091
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd1850a"
+  },
+  "nodeId": "59",
+  "active": true,
+  "coordinates": {
+    "lat": 40.445053,
+    "lng": -79.957415
+  },
+  "name": "ohara_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd18545"
+  },
+  "nodeId": "60",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44502096,
+    "lng": -79.9573736
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd18546"
+  },
+  "nodeId": "61",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44498891,
+    "lng": -79.95733219
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd18547"
+  },
+  "nodeId": "62",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44495687,
+    "lng": -79.95729079
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd18548"
+  },
+  "nodeId": "63",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44492482,
+    "lng": -79.95724939
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd18549"
+  },
+  "nodeId": "64",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44489278,
+    "lng": -79.95720798
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd1854a"
+  },
+  "nodeId": "65",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44486073,
+    "lng": -79.95716658
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd1854b"
+  },
+  "nodeId": "66",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44482869,
+    "lng": -79.95712518
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd1854c"
+  },
+  "nodeId": "67",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44479664,
+    "lng": -79.95708377
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd1854d"
+  },
+  "nodeId": "68",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4447646,
+    "lng": -79.95704237
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd1854e"
+  },
+  "nodeId": "69",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44473255,
+    "lng": -79.95700097
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd1854f"
+  },
+  "nodeId": "70",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4447005,
+    "lng": -79.95695956
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd18550"
+  },
+  "nodeId": "71",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44466846,
+    "lng": -79.95691816
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd18551"
+  },
+  "nodeId": "72",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44463641,
+    "lng": -79.95687676
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd18552"
+  },
+  "nodeId": "73",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44460437,
+    "lng": -79.95683535
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd18553"
+  },
+  "nodeId": "74",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44457232,
+    "lng": -79.95679395
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd18554"
+  },
+  "nodeId": "75",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44454028,
+    "lng": -79.95675255
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd18555"
+  },
+  "nodeId": "76",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44450823,
+    "lng": -79.95671115
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd18556"
+  },
+  "nodeId": "77",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44447619,
+    "lng": -79.95666974
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd18557"
+  },
+  "nodeId": "78",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44444414,
+    "lng": -79.95662834
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd18558"
+  },
+  "nodeId": "79",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4444121,
+    "lng": -79.95658694
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd18559"
+  },
+  "nodeId": "80",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44438005,
+    "lng": -79.95654553
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd1855a"
+  },
+  "nodeId": "81",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44434801,
+    "lng": -79.95650413
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd1855b"
+  },
+  "nodeId": "82",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44431596,
+    "lng": -79.95646273
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd1855c"
+  },
+  "nodeId": "83",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44428392,
+    "lng": -79.95642133
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd1855d"
+  },
+  "nodeId": "84",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44425187,
+    "lng": -79.95637992
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd1855e"
+  },
+  "nodeId": "85",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44421983,
+    "lng": -79.95633852
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd1855f"
+  },
+  "nodeId": "86",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44418778,
+    "lng": -79.95629712
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd18560"
+  },
+  "nodeId": "87",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44415574,
+    "lng": -79.95625572
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd18561"
+  },
+  "nodeId": "88",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44412369,
+    "lng": -79.95621431
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd18562"
+  },
+  "nodeId": "89",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44409165,
+    "lng": -79.95617291
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd18563"
+  },
+  "nodeId": "90",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4440596,
+    "lng": -79.95613151
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd18564"
+  },
+  "nodeId": "91",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44402755,
+    "lng": -79.95609011
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd18565"
+  },
+  "nodeId": "92",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44399551,
+    "lng": -79.9560487
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd18566"
+  },
+  "nodeId": "93",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44396346,
+    "lng": -79.9560073
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd18567"
+  },
+  "nodeId": "94",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44393142,
+    "lng": -79.9559659
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd18568"
+  },
+  "nodeId": "95",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44389937,
+    "lng": -79.9559245
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd18569"
+  },
+  "nodeId": "96",
+  "active": true,
+  "coordinates": {
+    "lat": 40.443851,
+    "lng": -79.955862
+  },
+  "name": "universityplace_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd18590"
+  },
+  "nodeId": "97",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44448545,
+    "lng": -79.95811227
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd18591"
+  },
+  "nodeId": "98",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4444529,
+    "lng": -79.95807155
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd18592"
+  },
+  "nodeId": "99",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44442036,
+    "lng": -79.95803082
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd18593"
+  },
+  "nodeId": "100",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44438781,
+    "lng": -79.9579901
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd18594"
+  },
+  "nodeId": "101",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44435526,
+    "lng": -79.95794937
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd18595"
+  },
+  "nodeId": "102",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44432271,
+    "lng": -79.95790865
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd18596"
+  },
+  "nodeId": "103",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44429016,
+    "lng": -79.95786792
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd18597"
+  },
+  "nodeId": "104",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44425761,
+    "lng": -79.9578272
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd18598"
+  },
+  "nodeId": "105",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44422507,
+    "lng": -79.95778647
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd18599"
+  },
+  "nodeId": "106",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44419252,
+    "lng": -79.95774575
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd1859a"
+  },
+  "nodeId": "107",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44415997,
+    "lng": -79.95770503
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd1859b"
+  },
+  "nodeId": "108",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44412742,
+    "lng": -79.9576643
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd1859c"
+  },
+  "nodeId": "109",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44409487,
+    "lng": -79.95762358
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd1859d"
+  },
+  "nodeId": "110",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44406232,
+    "lng": -79.95758285
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd1859e"
+  },
+  "nodeId": "111",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44402978,
+    "lng": -79.95754213
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd1859f"
+  },
+  "nodeId": "112",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44399723,
+    "lng": -79.9575014
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd185a0"
+  },
+  "nodeId": "113",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44396468,
+    "lng": -79.95746068
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd185a1"
+  },
+  "nodeId": "114",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44393213,
+    "lng": -79.95741995
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd185a2"
+  },
+  "nodeId": "115",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44389958,
+    "lng": -79.95737923
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd185a3"
+  },
+  "nodeId": "116",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44386703,
+    "lng": -79.9573385
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd185a4"
+  },
+  "nodeId": "117",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44383449,
+    "lng": -79.95729778
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd185a5"
+  },
+  "nodeId": "118",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44380194,
+    "lng": -79.95725706
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd185a6"
+  },
+  "nodeId": "119",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44376939,
+    "lng": -79.95721633
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd185a7"
+  },
+  "nodeId": "120",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44373684,
+    "lng": -79.95717561
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd185a8"
+  },
+  "nodeId": "121",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44370429,
+    "lng": -79.95713488
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd185a9"
+  },
+  "nodeId": "122",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44367174,
+    "lng": -79.95709416
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd185aa"
+  },
+  "nodeId": "123",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4436392,
+    "lng": -79.95705343
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd185ab"
+  },
+  "nodeId": "124",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44360665,
+    "lng": -79.95701271
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd185ac"
+  },
+  "nodeId": "125",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4435741,
+    "lng": -79.95697199
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd185ad"
+  },
+  "nodeId": "126",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44354155,
+    "lng": -79.95693126
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd185ae"
+  },
+  "nodeId": "127",
+  "active": true,
+  "coordinates": {
+    "lat": 40.443509,
+    "lng": -79.95689054
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd185af"
+  },
+  "nodeId": "128",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44347645,
+    "lng": -79.95684981
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185b0"
+  },
+  "nodeId": "129",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4434439,
+    "lng": -79.95680909
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185b1"
+  },
+  "nodeId": "130",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44341136,
+    "lng": -79.95676837
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185b2"
+  },
+  "nodeId": "131",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44337881,
+    "lng": -79.95672764
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185b3"
+  },
+  "nodeId": "132",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44334626,
+    "lng": -79.95668692
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185b4"
+  },
+  "nodeId": "133",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44331371,
+    "lng": -79.95664619
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185b5"
+  },
+  "nodeId": "134",
+  "active": true,
+  "coordinates": {
+    "lat": 40.443264,
+    "lng": -79.956584
+  },
+  "name": "thackeraystreet_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185dd"
+  },
+  "nodeId": "135",
+  "active": true,
+  "coordinates": {
+    "lat": 40.443182,
+    "lng": -79.95973
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185de"
+  },
+  "nodeId": "136",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44321311,
+    "lng": -79.9596874
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185df"
+  },
+  "nodeId": "137",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44324422,
+    "lng": -79.95964479
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185e0"
+  },
+  "nodeId": "138",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44327534,
+    "lng": -79.95960219
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185e1"
+  },
+  "nodeId": "139",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44330645,
+    "lng": -79.95955958
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185e2"
+  },
+  "nodeId": "140",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44333756,
+    "lng": -79.95951698
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185e3"
+  },
+  "nodeId": "141",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44336867,
+    "lng": -79.95947438
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185e4"
+  },
+  "nodeId": "142",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44339978,
+    "lng": -79.95943177
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185e5"
+  },
+  "nodeId": "143",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4434309,
+    "lng": -79.95938917
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185e6"
+  },
+  "nodeId": "144",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44346201,
+    "lng": -79.95934656
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185e7"
+  },
+  "nodeId": "145",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44349312,
+    "lng": -79.95930396
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185e8"
+  },
+  "nodeId": "146",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44352423,
+    "lng": -79.95926136
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185e9"
+  },
+  "nodeId": "147",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44355534,
+    "lng": -79.95921875
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185ea"
+  },
+  "nodeId": "148",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44358646,
+    "lng": -79.95917615
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185eb"
+  },
+  "nodeId": "149",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44361757,
+    "lng": -79.95913354
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185ec"
+  },
+  "nodeId": "150",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44364868,
+    "lng": -79.95909094
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185ed"
+  },
+  "nodeId": "151",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44367979,
+    "lng": -79.95904833
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185ee"
+  },
+  "nodeId": "152",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4437109,
+    "lng": -79.95900573
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185ef"
+  },
+  "nodeId": "153",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44374202,
+    "lng": -79.95896313
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185f0"
+  },
+  "nodeId": "154",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44377313,
+    "lng": -79.95892052
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185f1"
+  },
+  "nodeId": "155",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44380424,
+    "lng": -79.95887792
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd185f2"
+  },
+  "nodeId": "156",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44383535,
+    "lng": -79.95883531
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd185f3"
+  },
+  "nodeId": "157",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44386646,
+    "lng": -79.95879271
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd185f4"
+  },
+  "nodeId": "158",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44389757,
+    "lng": -79.9587501
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd185f5"
+  },
+  "nodeId": "159",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44392869,
+    "lng": -79.9587075
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd185f6"
+  },
+  "nodeId": "160",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4439598,
+    "lng": -79.95866489
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd185f7"
+  },
+  "nodeId": "161",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44399091,
+    "lng": -79.95862229
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd185f8"
+  },
+  "nodeId": "162",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44402202,
+    "lng": -79.95857968
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd185f9"
+  },
+  "nodeId": "163",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44405313,
+    "lng": -79.95853708
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd185fa"
+  },
+  "nodeId": "164",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44408425,
+    "lng": -79.95849447
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd185fb"
+  },
+  "nodeId": "165",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44411536,
+    "lng": -79.95845187
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd185fc"
+  },
+  "nodeId": "166",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44414647,
+    "lng": -79.95840926
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd185fd"
+  },
+  "nodeId": "167",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44417758,
+    "lng": -79.95836666
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd185fe"
+  },
+  "nodeId": "168",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44420869,
+    "lng": -79.95832405
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd185ff"
+  },
+  "nodeId": "169",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4442398,
+    "lng": -79.95828145
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd18600"
+  },
+  "nodeId": "170",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44427091,
+    "lng": -79.95823884
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd18601"
+  },
+  "nodeId": "171",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44430203,
+    "lng": -79.95819624
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd18602"
+  },
+  "nodeId": "172",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44433314,
+    "lng": -79.95815363
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd18603"
+  },
+  "nodeId": "173",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44436425,
+    "lng": -79.95811103
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd18604"
+  },
+  "nodeId": "174",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44439536,
+    "lng": -79.95806842
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd18605"
+  },
+  "nodeId": "175",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44445758,
+    "lng": -79.95798321
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd18606"
+  },
+  "nodeId": "176",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4444887,
+    "lng": -79.95794061
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd18607"
+  },
+  "nodeId": "177",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44451981,
+    "lng": -79.957898
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd18608"
+  },
+  "nodeId": "178",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44455092,
+    "lng": -79.95785539
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd18609"
+  },
+  "nodeId": "179",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44458203,
+    "lng": -79.95781279
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd1860a"
+  },
+  "nodeId": "180",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44461314,
+    "lng": -79.95777018
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd1860b"
+  },
+  "nodeId": "181",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44464425,
+    "lng": -79.95772758
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd1860c"
+  },
+  "nodeId": "182",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44467536,
+    "lng": -79.95768497
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd1860d"
+  },
+  "nodeId": "183",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44470648,
+    "lng": -79.95764237
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd1860e"
+  },
+  "nodeId": "184",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44473759,
+    "lng": -79.95759976
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd1860f"
+  },
+  "nodeId": "185",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4447687,
+    "lng": -79.95755715
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd18610"
+  },
+  "nodeId": "186",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44479981,
+    "lng": -79.95751455
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd18611"
+  },
+  "nodeId": "187",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44483092,
+    "lng": -79.95747194
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd18612"
+  },
+  "nodeId": "188",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44486203,
+    "lng": -79.95742934
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b2a7bd560c3fd18613"
+  },
+  "nodeId": "189",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44489314,
+    "lng": -79.95738673
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd18614"
+  },
+  "nodeId": "190",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44492425,
+    "lng": -79.95734413
+  },
+  "name": "ohara_right",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18652"
+  },
+  "nodeId": "191",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44431589,
+    "lng": -79.95809406
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18653"
+  },
+  "nodeId": "192",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44428278,
+    "lng": -79.95805412
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18654"
+  },
+  "nodeId": "193",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44424966,
+    "lng": -79.95801418
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18655"
+  },
+  "nodeId": "194",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44421655,
+    "lng": -79.95797425
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18656"
+  },
+  "nodeId": "195",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44418344,
+    "lng": -79.95793431
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18657"
+  },
+  "nodeId": "196",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44415033,
+    "lng": -79.95789437
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18658"
+  },
+  "nodeId": "197",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44411721,
+    "lng": -79.95785443
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18659"
+  },
+  "nodeId": "198",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4440841,
+    "lng": -79.95781449
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd1865a"
+  },
+  "nodeId": "199",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44405099,
+    "lng": -79.95777455
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd1865b"
+  },
+  "nodeId": "200",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44401788,
+    "lng": -79.95773462
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd1865c"
+  },
+  "nodeId": "201",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44398477,
+    "lng": -79.95769468
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd1865d"
+  },
+  "nodeId": "202",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44395165,
+    "lng": -79.95765474
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd1865e"
+  },
+  "nodeId": "203",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44391854,
+    "lng": -79.9576148
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd1865f"
+  },
+  "nodeId": "204",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44388543,
+    "lng": -79.95757486
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd18660"
+  },
+  "nodeId": "205",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44385232,
+    "lng": -79.95753493
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd18661"
+  },
+  "nodeId": "206",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4438192,
+    "lng": -79.95749499
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd18662"
+  },
+  "nodeId": "207",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44378609,
+    "lng": -79.95745505
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd18663"
+  },
+  "nodeId": "208",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44375298,
+    "lng": -79.95741511
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd18664"
+  },
+  "nodeId": "209",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44371987,
+    "lng": -79.95737517
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd18665"
+  },
+  "nodeId": "210",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44368675,
+    "lng": -79.95733524
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd18666"
+  },
+  "nodeId": "211",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44365364,
+    "lng": -79.9572953
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd18667"
+  },
+  "nodeId": "212",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44362053,
+    "lng": -79.95725536
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd18668"
+  },
+  "nodeId": "213",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44358742,
+    "lng": -79.95721542
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd18669"
+  },
+  "nodeId": "214",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44355431,
+    "lng": -79.95717548
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd1866a"
+  },
+  "nodeId": "215",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44352119,
+    "lng": -79.95713555
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd1866b"
+  },
+  "nodeId": "216",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44348808,
+    "lng": -79.95709561
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd1866d"
+  },
+  "nodeId": "217",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44345497,
+    "lng": -79.95705567
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd1866e"
+  },
+  "nodeId": "218",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44342186,
+    "lng": -79.95701573
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd1866f"
+  },
+  "nodeId": "219",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44338874,
+    "lng": -79.9569758
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd18670"
+  },
+  "nodeId": "220",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44335563,
+    "lng": -79.95693586
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd18671"
+  },
+  "nodeId": "221",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44332252,
+    "lng": -79.95689592
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd18672"
+  },
+  "nodeId": "222",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44328941,
+    "lng": -79.95685598
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd18673"
+  },
+  "nodeId": "223",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44325629,
+    "lng": -79.95681605
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd18674"
+  },
+  "nodeId": "224",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44322318,
+    "lng": -79.95677611
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd18675"
+  },
+  "nodeId": "225",
+  "active": true,
+  "coordinates": {
+    "lat": 40.443175,
+    "lng": -79.956718
+  },
+  "name": "thackeraystreet_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd1869a"
+  },
+  "nodeId": "226",
+  "active": true,
+  "coordinates": {
+    "lat": 40.442323,
+    "lng": -79.957925
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd1869b"
+  },
+  "nodeId": "227",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44235379,
+    "lng": -79.957882
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd1869c"
+  },
+  "nodeId": "228",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44238459,
+    "lng": -79.957839
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd1869d"
+  },
+  "nodeId": "229",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44241538,
+    "lng": -79.95779601
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd1869e"
+  },
+  "nodeId": "230",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44244617,
+    "lng": -79.95775301
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd1869f"
+  },
+  "nodeId": "231",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44247697,
+    "lng": -79.95771001
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186a0"
+  },
+  "nodeId": "232",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44250776,
+    "lng": -79.95766701
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186a1"
+  },
+  "nodeId": "233",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44253855,
+    "lng": -79.95762401
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186a2"
+  },
+  "nodeId": "234",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44256935,
+    "lng": -79.95758102
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186a3"
+  },
+  "nodeId": "235",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44260014,
+    "lng": -79.95753802
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186a4"
+  },
+  "nodeId": "236",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44263093,
+    "lng": -79.95749502
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186a5"
+  },
+  "nodeId": "237",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44266173,
+    "lng": -79.95745202
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186a6"
+  },
+  "nodeId": "238",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44269252,
+    "lng": -79.95740902
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186a7"
+  },
+  "nodeId": "239",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44272332,
+    "lng": -79.95736602
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186a8"
+  },
+  "nodeId": "240",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44275411,
+    "lng": -79.95732303
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186a9"
+  },
+  "nodeId": "241",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4427849,
+    "lng": -79.95728003
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186aa"
+  },
+  "nodeId": "242",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4428157,
+    "lng": -79.95723703
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186ab"
+  },
+  "nodeId": "243",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44284649,
+    "lng": -79.95719403
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186ac"
+  },
+  "nodeId": "244",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44287728,
+    "lng": -79.95715103
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186ad"
+  },
+  "nodeId": "245",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44290808,
+    "lng": -79.95710803
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186ae"
+  },
+  "nodeId": "246",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44293887,
+    "lng": -79.95706503
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186af"
+  },
+  "nodeId": "247",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44296966,
+    "lng": -79.95702203
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186b0"
+  },
+  "nodeId": "248",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44300045,
+    "lng": -79.95697904
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186b1"
+  },
+  "nodeId": "249",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44303125,
+    "lng": -79.95693604
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186b2"
+  },
+  "nodeId": "250",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44306204,
+    "lng": -79.95689304
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186b3"
+  },
+  "nodeId": "251",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44309283,
+    "lng": -79.95685004
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186b4"
+  },
+  "nodeId": "252",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44312363,
+    "lng": -79.95680704
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186b5"
+  },
+  "nodeId": "253",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44315442,
+    "lng": -79.95676404
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186b6"
+  },
+  "nodeId": "254",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44321601,
+    "lng": -79.95667804
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186b7"
+  },
+  "nodeId": "255",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4432468,
+    "lng": -79.95663504
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186b8"
+  },
+  "nodeId": "256",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44330839,
+    "lng": -79.95654905
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186b9"
+  },
+  "nodeId": "257",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44333918,
+    "lng": -79.95650605
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b7a7bd560c3fd186ba"
+  },
+  "nodeId": "258",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44336997,
+    "lng": -79.95646305
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186bb"
+  },
+  "nodeId": "259",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44340077,
+    "lng": -79.95642005
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186bc"
+  },
+  "nodeId": "260",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44343156,
+    "lng": -79.95637705
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186bd"
+  },
+  "nodeId": "261",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44346235,
+    "lng": -79.95633405
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186be"
+  },
+  "nodeId": "262",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44349314,
+    "lng": -79.95629105
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186bf"
+  },
+  "nodeId": "263",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44352394,
+    "lng": -79.95624805
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186c0"
+  },
+  "nodeId": "264",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44355473,
+    "lng": -79.95620505
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186c1"
+  },
+  "nodeId": "265",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44358552,
+    "lng": -79.95616205
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186c2"
+  },
+  "nodeId": "266",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44361632,
+    "lng": -79.95611905
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186c3"
+  },
+  "nodeId": "267",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44364711,
+    "lng": -79.95607605
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186c4"
+  },
+  "nodeId": "268",
+  "active": true,
+  "coordinates": {
+    "lat": 40.4436779,
+    "lng": -79.95603305
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186c5"
+  },
+  "nodeId": "269",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44370869,
+    "lng": -79.95599005
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186c6"
+  },
+  "nodeId": "270",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44373949,
+    "lng": -79.95594705
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186c7"
+  },
+  "nodeId": "271",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44377028,
+    "lng": -79.95590405
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186c8"
+  },
+  "nodeId": "272",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44380107,
+    "lng": -79.95586105
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186c9"
+  },
+  "nodeId": "273",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44383187,
+    "lng": -79.95581805
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186ca"
+  },
+  "nodeId": "274",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44386266,
+    "lng": -79.95577505
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186cb"
+  },
+  "nodeId": "275",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44389345,
+    "lng": -79.95573205
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186cc"
+  },
+  "nodeId": "276",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44392424,
+    "lng": -79.95568905
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186cd"
+  },
+  "nodeId": "277",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44395504,
+    "lng": -79.95564605
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186ce"
+  },
+  "nodeId": "278",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44398583,
+    "lng": -79.95560305
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186cf"
+  },
+  "nodeId": "279",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44401662,
+    "lng": -79.95556005
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186d0"
+  },
+  "nodeId": "280",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44404742,
+    "lng": -79.95551705
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186d1"
+  },
+  "nodeId": "281",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44407821,
+    "lng": -79.95547405
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186d2"
+  },
+  "nodeId": "282",
+  "active": true,
+  "coordinates": {
+    "lat": 40.444109,
+    "lng": -79.95543105
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186d3"
+  },
+  "nodeId": "283",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44413979,
+    "lng": -79.95538805
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186d4"
+  },
+  "nodeId": "284",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44417059,
+    "lng": -79.95534505
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186d5"
+  },
+  "nodeId": "285",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44420138,
+    "lng": -79.95530205
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186d6"
+  },
+  "nodeId": "286",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44423217,
+    "lng": -79.95525905
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186d7"
+  },
+  "nodeId": "287",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44426296,
+    "lng": -79.95521605
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186d8"
+  },
+  "nodeId": "288",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44429376,
+    "lng": -79.95517305
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186d9"
+  },
+  "nodeId": "289",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44432455,
+    "lng": -79.95513005
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186da"
+  },
+  "nodeId": "290",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44435534,
+    "lng": -79.95508705
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186db"
+  },
+  "nodeId": "291",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44438613,
+    "lng": -79.95504405
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b8a7bd560c3fd186dc"
+  },
+  "nodeId": "292",
+  "active": true,
+  "coordinates": {
+    "lat": 40.444432,
+    "lng": -79.95498
+  },
+  "name": "fifthave_left",
+  "type": "sidewalk"
+},
+{
+  "_id": {
+    "$oid": "68cfa4bba7bd560c3fd18723"
+  },
+  "nodeId": "293",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44432,
+    "lng": -79.95725
+  },
+  "name": "Thackeray Hall entrance: University Place ground level doors",
+  "type": "entrance"
+},
+{
+  "_id": {
+    "$oid": "68cfa4bba7bd560c3fd18725"
+  },
+  "nodeId": "294",
+  "active": true,
+  "coordinates": {
+    "lat": 40.444959,
+    "lng": -79.958045
+  },
+  "name": "Old Engineering Hall entrance: O'Hara St entrance",
+  "type": "entrance"
+},
+{
+  "_id": {
+    "$oid": "68cfa4bba7bd560c3fd18727"
+  },
+  "nodeId": "295",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44458,
+    "lng": -79.95837
+  },
+  "name": "Allen Hall entrance: O'Hara St entrance",
+  "type": "entrance"
+},
+{
+  "_id": {
+    "$oid": "68cfa4bba7bd560c3fd18729"
+  },
+  "nodeId": "296",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44516,
+    "lng": -79.95763
+  },
+  "name": "Thaw Hall entrance: SRCC/Thaw shared lobby on O'Hara St",
+  "type": "entrance"
+},
+{
+  "_id": {
+    "$oid": "68cfa4bba7bd560c3fd1872b"
+  },
+  "nodeId": "297",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44279,
+    "lng": -79.9585
+  },
+  "name": "Public Health Building entrance: Fifth Ave main doors",
+  "type": "entrance"
+},
+{
+  "_id": {
+    "$oid": "68cfa4bba7bd560c3fd1872d"
+  },
+  "nodeId": "298",
+  "active": true,
+  "coordinates": {
+    "lat": 40.44273,
+    "lng": -79.95795
+  },
+  "name": "Public Health Building entrance: De Soto St doors",
+  "type": "entrance"
+}]
