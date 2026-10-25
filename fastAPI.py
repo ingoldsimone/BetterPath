@@ -78,7 +78,7 @@ async def get_buildings():
 async def root():
     """Health check endpoint"""
     return {
-        "message": "Aura-maxx Navigation API is running",
+        "message": "BetterPath Navigation API is running",
         "status": "healthy",
         "gemini_available": gemini_available,
         "gemini_demo_mode": gemini_demo_mode
