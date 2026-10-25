@@ -5,7 +5,7 @@
 ---
 
 ##  Contributors  
-- Simon Goldin — [Simongoldin06@gmail.com](mailto:Simongoldin06@gmail.com)  
+- Simon Goldin — [simongoldin06@gmail.com](mailto:simongoldin06@gmail.com)  
 - Vladimir Deianov — [Deyanovva@gmail.com](mailto:Deyanovva@gmail.com)  
 - Diana Lysova — [dianaelysova@gmail.com](mailto:dianaelysova@gmail.com)  
 - Evgenii Venediktov — [e.i.venediktov@gmail.com](mailto:e.i.venediktov@gmail.com)  
