@@ -1,0 +1,3050 @@
+[{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd1850b"
+  },
+  "edgeId": "1_2",
+  "active": true,
+  "from": "1",
+  "name": "ohara_left",
+  "to": "2"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd1850c"
+  },
+  "edgeId": "2_3",
+  "active": true,
+  "from": "2",
+  "name": "ohara_left",
+  "to": "3"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd1850d"
+  },
+  "edgeId": "3_4",
+  "active": true,
+  "from": "3",
+  "name": "ohara_left",
+  "to": "4"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd1850e"
+  },
+  "edgeId": "4_5",
+  "active": true,
+  "from": "4",
+  "name": "ohara_left",
+  "to": "5"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd1850f"
+  },
+  "edgeId": "5_6",
+  "active": true,
+  "from": "5",
+  "name": "ohara_left",
+  "to": "6"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd18510"
+  },
+  "edgeId": "6_7",
+  "active": true,
+  "from": "6",
+  "name": "ohara_left",
+  "to": "7"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd18511"
+  },
+  "edgeId": "7_8",
+  "active": true,
+  "from": "7",
+  "name": "ohara_left",
+  "to": "8"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd18512"
+  },
+  "edgeId": "8_9",
+  "active": true,
+  "from": "8",
+  "name": "ohara_left",
+  "to": "9"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd18513"
+  },
+  "edgeId": "9_10",
+  "active": true,
+  "from": "9",
+  "name": "ohara_left",
+  "to": "10"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd18514"
+  },
+  "edgeId": "10_11",
+  "active": true,
+  "from": "10",
+  "name": "ohara_left",
+  "to": "11"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd18515"
+  },
+  "edgeId": "11_12",
+  "active": true,
+  "from": "11",
+  "name": "ohara_left",
+  "to": "12"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd18516"
+  },
+  "edgeId": "12_13",
+  "active": true,
+  "from": "12",
+  "name": "ohara_left",
+  "to": "13"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd18517"
+  },
+  "edgeId": "13_14",
+  "active": true,
+  "from": "13",
+  "name": "ohara_left",
+  "to": "14"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd18518"
+  },
+  "edgeId": "14_15",
+  "active": true,
+  "from": "14",
+  "name": "ohara_left",
+  "to": "15"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd18519"
+  },
+  "edgeId": "15_16",
+  "active": true,
+  "from": "15",
+  "name": "ohara_left",
+  "to": "16"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd1851a"
+  },
+  "edgeId": "16_17",
+  "active": true,
+  "from": "16",
+  "name": "ohara_left",
+  "to": "17"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd1851b"
+  },
+  "edgeId": "17_18",
+  "active": true,
+  "from": "17",
+  "name": "ohara_left",
+  "to": "18"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd1851c"
+  },
+  "edgeId": "18_19",
+  "active": true,
+  "from": "18",
+  "name": "ohara_left",
+  "to": "19"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd1851d"
+  },
+  "edgeId": "19_20",
+  "active": true,
+  "from": "19",
+  "name": "ohara_left",
+  "to": "20"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd1851e"
+  },
+  "edgeId": "20_21",
+  "active": true,
+  "from": "20",
+  "name": "ohara_left",
+  "to": "21"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd1851f"
+  },
+  "edgeId": "21_22",
+  "active": true,
+  "from": "21",
+  "name": "ohara_left",
+  "to": "22"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd18520"
+  },
+  "edgeId": "22_23",
+  "active": true,
+  "from": "22",
+  "name": "ohara_left",
+  "to": "23"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd18521"
+  },
+  "edgeId": "23_24",
+  "active": true,
+  "from": "23",
+  "name": "ohara_left",
+  "to": "24"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd18522"
+  },
+  "edgeId": "24_25",
+  "active": true,
+  "from": "24",
+  "name": "ohara_left",
+  "to": "25"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd18523"
+  },
+  "edgeId": "25_26",
+  "active": true,
+  "from": "25",
+  "name": "ohara_left",
+  "to": "26"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd18524"
+  },
+  "edgeId": "26_27",
+  "active": true,
+  "from": "26",
+  "name": "ohara_left",
+  "to": "27"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd18525"
+  },
+  "edgeId": "27_28",
+  "active": true,
+  "from": "27",
+  "name": "ohara_left",
+  "to": "28"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd18526"
+  },
+  "edgeId": "28_29",
+  "active": true,
+  "from": "28",
+  "name": "ohara_left",
+  "to": "29"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd18527"
+  },
+  "edgeId": "29_30",
+  "active": true,
+  "from": "29",
+  "name": "ohara_left",
+  "to": "30"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd18528"
+  },
+  "edgeId": "30_31",
+  "active": true,
+  "from": "30",
+  "name": "ohara_left",
+  "to": "31"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd18529"
+  },
+  "edgeId": "31_32",
+  "active": true,
+  "from": "31",
+  "name": "ohara_left",
+  "to": "32"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aba7bd560c3fd1852a"
+  },
+  "edgeId": "32_33",
+  "active": true,
+  "from": "32",
+  "name": "ohara_left",
+  "to": "33"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd1852b"
+  },
+  "edgeId": "33_34",
+  "active": true,
+  "from": "33",
+  "name": "ohara_left",
+  "to": "34"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd1852c"
+  },
+  "edgeId": "34_35",
+  "active": true,
+  "from": "34",
+  "name": "ohara_left",
+  "to": "35"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd1852d"
+  },
+  "edgeId": "35_36",
+  "active": true,
+  "from": "35",
+  "name": "ohara_left",
+  "to": "36"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd1852e"
+  },
+  "edgeId": "36_37",
+  "active": true,
+  "from": "36",
+  "name": "ohara_left",
+  "to": "37"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd1852f"
+  },
+  "edgeId": "37_38",
+  "active": true,
+  "from": "37",
+  "name": "ohara_left",
+  "to": "38"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd18530"
+  },
+  "edgeId": "38_39",
+  "active": true,
+  "from": "38",
+  "name": "ohara_left",
+  "to": "39"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd18531"
+  },
+  "edgeId": "39_40",
+  "active": true,
+  "from": "39",
+  "name": "ohara_left",
+  "to": "40"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd18532"
+  },
+  "edgeId": "40_41",
+  "active": true,
+  "from": "40",
+  "name": "ohara_left",
+  "to": "41"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd18533"
+  },
+  "edgeId": "41_42",
+  "active": true,
+  "from": "41",
+  "name": "ohara_left",
+  "to": "42"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd18534"
+  },
+  "edgeId": "42_43",
+  "active": true,
+  "from": "42",
+  "name": "ohara_left",
+  "to": "43"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd18535"
+  },
+  "edgeId": "43_44",
+  "active": true,
+  "from": "43",
+  "name": "ohara_left",
+  "to": "44"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd18536"
+  },
+  "edgeId": "44_45",
+  "active": true,
+  "from": "44",
+  "name": "ohara_left",
+  "to": "45"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd18537"
+  },
+  "edgeId": "45_46",
+  "active": true,
+  "from": "45",
+  "name": "ohara_left",
+  "to": "46"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd18538"
+  },
+  "edgeId": "46_47",
+  "active": true,
+  "from": "46",
+  "name": "ohara_left",
+  "to": "47"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd18539"
+  },
+  "edgeId": "47_48",
+  "active": true,
+  "from": "47",
+  "name": "ohara_left",
+  "to": "48"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd1853a"
+  },
+  "edgeId": "48_49",
+  "active": true,
+  "from": "48",
+  "name": "ohara_left",
+  "to": "49"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd1853b"
+  },
+  "edgeId": "49_50",
+  "active": true,
+  "from": "49",
+  "name": "ohara_left",
+  "to": "50"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd1853c"
+  },
+  "edgeId": "50_51",
+  "active": true,
+  "from": "50",
+  "name": "ohara_left",
+  "to": "51"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd1853d"
+  },
+  "edgeId": "51_52",
+  "active": true,
+  "from": "51",
+  "name": "ohara_left",
+  "to": "52"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd1853e"
+  },
+  "edgeId": "52_53",
+  "active": true,
+  "from": "52",
+  "name": "ohara_left",
+  "to": "53"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd1853f"
+  },
+  "edgeId": "53_54",
+  "active": true,
+  "from": "53",
+  "name": "ohara_left",
+  "to": "54"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd18540"
+  },
+  "edgeId": "54_55",
+  "active": true,
+  "from": "54",
+  "name": "ohara_left",
+  "to": "55"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd18541"
+  },
+  "edgeId": "55_56",
+  "active": true,
+  "from": "55",
+  "name": "ohara_left",
+  "to": "56"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd18542"
+  },
+  "edgeId": "56_57",
+  "active": true,
+  "from": "56",
+  "name": "ohara_left",
+  "to": "57"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd18543"
+  },
+  "edgeId": "57_58",
+  "active": true,
+  "from": "57",
+  "name": "ohara_left",
+  "to": "58"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aca7bd560c3fd18544"
+  },
+  "edgeId": "58_59",
+  "active": true,
+  "from": "58",
+  "name": "ohara_left",
+  "to": "59"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd1856a"
+  },
+  "edgeId": "59_60",
+  "active": true,
+  "from": "59",
+  "name": "universityplace_left",
+  "to": "60"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd1856b"
+  },
+  "edgeId": "60_61",
+  "active": true,
+  "from": "60",
+  "name": "universityplace_left",
+  "to": "61"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd1856c"
+  },
+  "edgeId": "61_62",
+  "active": true,
+  "from": "61",
+  "name": "universityplace_left",
+  "to": "62"
+},
+{
+  "_id": {
+    "$oid": "68cfa4ada7bd560c3fd1856d"
+  },
+  "edgeId": "62_63",
+  "active": true,
+  "from": "62",
+  "name": "universityplace_left",
+  "to": "63"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd1856e"
+  },
+  "edgeId": "63_64",
+  "active": true,
+  "from": "63",
+  "name": "universityplace_left",
+  "to": "64"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd1856f"
+  },
+  "edgeId": "64_65",
+  "active": true,
+  "from": "64",
+  "name": "universityplace_left",
+  "to": "65"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd18570"
+  },
+  "edgeId": "65_66",
+  "active": true,
+  "from": "65",
+  "name": "universityplace_left",
+  "to": "66"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd18571"
+  },
+  "edgeId": "66_67",
+  "active": true,
+  "from": "66",
+  "name": "universityplace_left",
+  "to": "67"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd18572"
+  },
+  "edgeId": "67_68",
+  "active": true,
+  "from": "67",
+  "name": "universityplace_left",
+  "to": "68"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd18573"
+  },
+  "edgeId": "68_69",
+  "active": true,
+  "from": "68",
+  "name": "universityplace_left",
+  "to": "69"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd18574"
+  },
+  "edgeId": "69_70",
+  "active": true,
+  "from": "69",
+  "name": "universityplace_left",
+  "to": "70"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd18575"
+  },
+  "edgeId": "70_71",
+  "active": true,
+  "from": "70",
+  "name": "universityplace_left",
+  "to": "71"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd18576"
+  },
+  "edgeId": "71_72",
+  "active": true,
+  "from": "71",
+  "name": "universityplace_left",
+  "to": "72"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd18577"
+  },
+  "edgeId": "72_73",
+  "active": true,
+  "from": "72",
+  "name": "universityplace_left",
+  "to": "73"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd18578"
+  },
+  "edgeId": "73_74",
+  "active": true,
+  "from": "73",
+  "name": "universityplace_left",
+  "to": "74"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd18579"
+  },
+  "edgeId": "74_75",
+  "active": true,
+  "from": "74",
+  "name": "universityplace_left",
+  "to": "75"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd1857a"
+  },
+  "edgeId": "75_76",
+  "active": true,
+  "from": "75",
+  "name": "universityplace_left",
+  "to": "76"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd1857b"
+  },
+  "edgeId": "76_77",
+  "active": true,
+  "from": "76",
+  "name": "universityplace_left",
+  "to": "77"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd1857c"
+  },
+  "edgeId": "77_78",
+  "active": true,
+  "from": "77",
+  "name": "universityplace_left",
+  "to": "78"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd1857d"
+  },
+  "edgeId": "78_79",
+  "active": true,
+  "from": "78",
+  "name": "universityplace_left",
+  "to": "79"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd1857e"
+  },
+  "edgeId": "79_80",
+  "active": true,
+  "from": "79",
+  "name": "universityplace_left",
+  "to": "80"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd1857f"
+  },
+  "edgeId": "80_81",
+  "active": true,
+  "from": "80",
+  "name": "universityplace_left",
+  "to": "81"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd18580"
+  },
+  "edgeId": "81_82",
+  "active": true,
+  "from": "81",
+  "name": "universityplace_left",
+  "to": "82"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd18581"
+  },
+  "edgeId": "82_83",
+  "active": true,
+  "from": "82",
+  "name": "universityplace_left",
+  "to": "83"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd18582"
+  },
+  "edgeId": "83_84",
+  "active": true,
+  "from": "83",
+  "name": "universityplace_left",
+  "to": "84"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd18583"
+  },
+  "edgeId": "84_85",
+  "active": true,
+  "from": "84",
+  "name": "universityplace_left",
+  "to": "85"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd18584"
+  },
+  "edgeId": "85_86",
+  "active": true,
+  "from": "85",
+  "name": "universityplace_left",
+  "to": "86"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd18585"
+  },
+  "edgeId": "86_87",
+  "active": true,
+  "from": "86",
+  "name": "universityplace_left",
+  "to": "87"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd18586"
+  },
+  "edgeId": "87_88",
+  "active": true,
+  "from": "87",
+  "name": "universityplace_left",
+  "to": "88"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd18587"
+  },
+  "edgeId": "88_89",
+  "active": true,
+  "from": "88",
+  "name": "universityplace_left",
+  "to": "89"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd18588"
+  },
+  "edgeId": "89_90",
+  "active": true,
+  "from": "89",
+  "name": "universityplace_left",
+  "to": "90"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd18589"
+  },
+  "edgeId": "90_91",
+  "active": true,
+  "from": "90",
+  "name": "universityplace_left",
+  "to": "91"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd1858a"
+  },
+  "edgeId": "91_92",
+  "active": true,
+  "from": "91",
+  "name": "universityplace_left",
+  "to": "92"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd1858b"
+  },
+  "edgeId": "92_93",
+  "active": true,
+  "from": "92",
+  "name": "universityplace_left",
+  "to": "93"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd1858c"
+  },
+  "edgeId": "93_94",
+  "active": true,
+  "from": "93",
+  "name": "universityplace_left",
+  "to": "94"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd1858d"
+  },
+  "edgeId": "94_95",
+  "active": true,
+  "from": "94",
+  "name": "universityplace_left",
+  "to": "95"
+},
+{
+  "_id": {
+    "$oid": "68cfa4aea7bd560c3fd1858e"
+  },
+  "edgeId": "95_96",
+  "active": true,
+  "from": "95",
+  "name": "universityplace_left",
+  "to": "96"
+},
+{
+  "_id": {
+    "$oid": "68cfa4afa7bd560c3fd1858f"
+  },
+  "edgeId": "96_96",
+  "active": true,
+  "from": "96",
+  "name": "universityplace_left",
+  "to": "96"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185b6"
+  },
+  "edgeId": "41_97",
+  "active": true,
+  "from": "41",
+  "name": "thackeraystreet_right",
+  "to": "97"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185b7"
+  },
+  "edgeId": "97_98",
+  "active": true,
+  "from": "97",
+  "name": "thackeraystreet_right",
+  "to": "98"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185b8"
+  },
+  "edgeId": "98_99",
+  "active": true,
+  "from": "98",
+  "name": "thackeraystreet_right",
+  "to": "99"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185b9"
+  },
+  "edgeId": "99_100",
+  "active": true,
+  "from": "99",
+  "name": "thackeraystreet_right",
+  "to": "100"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185ba"
+  },
+  "edgeId": "100_101",
+  "active": true,
+  "from": "100",
+  "name": "thackeraystreet_right",
+  "to": "101"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185bb"
+  },
+  "edgeId": "101_102",
+  "active": true,
+  "from": "101",
+  "name": "thackeraystreet_right",
+  "to": "102"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185bc"
+  },
+  "edgeId": "102_103",
+  "active": true,
+  "from": "102",
+  "name": "thackeraystreet_right",
+  "to": "103"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185bd"
+  },
+  "edgeId": "103_104",
+  "active": true,
+  "from": "103",
+  "name": "thackeraystreet_right",
+  "to": "104"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185be"
+  },
+  "edgeId": "104_105",
+  "active": true,
+  "from": "104",
+  "name": "thackeraystreet_right",
+  "to": "105"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185bf"
+  },
+  "edgeId": "105_106",
+  "active": true,
+  "from": "105",
+  "name": "thackeraystreet_right",
+  "to": "106"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185c0"
+  },
+  "edgeId": "106_107",
+  "active": true,
+  "from": "106",
+  "name": "thackeraystreet_right",
+  "to": "107"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185c1"
+  },
+  "edgeId": "107_108",
+  "active": true,
+  "from": "107",
+  "name": "thackeraystreet_right",
+  "to": "108"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185c2"
+  },
+  "edgeId": "108_109",
+  "active": true,
+  "from": "108",
+  "name": "thackeraystreet_right",
+  "to": "109"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185c3"
+  },
+  "edgeId": "109_110",
+  "active": true,
+  "from": "109",
+  "name": "thackeraystreet_right",
+  "to": "110"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185c4"
+  },
+  "edgeId": "110_111",
+  "active": true,
+  "from": "110",
+  "name": "thackeraystreet_right",
+  "to": "111"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185c5"
+  },
+  "edgeId": "111_112",
+  "active": true,
+  "from": "111",
+  "name": "thackeraystreet_right",
+  "to": "112"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185c6"
+  },
+  "edgeId": "112_113",
+  "active": true,
+  "from": "112",
+  "name": "thackeraystreet_right",
+  "to": "113"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185c7"
+  },
+  "edgeId": "113_114",
+  "active": true,
+  "from": "113",
+  "name": "thackeraystreet_right",
+  "to": "114"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185c8"
+  },
+  "edgeId": "114_115",
+  "active": true,
+  "from": "114",
+  "name": "thackeraystreet_right",
+  "to": "115"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185c9"
+  },
+  "edgeId": "115_116",
+  "active": true,
+  "from": "115",
+  "name": "thackeraystreet_right",
+  "to": "116"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185ca"
+  },
+  "edgeId": "116_117",
+  "active": true,
+  "from": "116",
+  "name": "thackeraystreet_right",
+  "to": "117"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185cb"
+  },
+  "edgeId": "117_118",
+  "active": true,
+  "from": "117",
+  "name": "thackeraystreet_right",
+  "to": "118"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185cc"
+  },
+  "edgeId": "118_119",
+  "active": true,
+  "from": "118",
+  "name": "thackeraystreet_right",
+  "to": "119"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185cd"
+  },
+  "edgeId": "119_120",
+  "active": true,
+  "from": "119",
+  "name": "thackeraystreet_right",
+  "to": "120"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185ce"
+  },
+  "edgeId": "120_121",
+  "active": true,
+  "from": "120",
+  "name": "thackeraystreet_right",
+  "to": "121"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b0a7bd560c3fd185cf"
+  },
+  "edgeId": "121_122",
+  "active": true,
+  "from": "121",
+  "name": "thackeraystreet_right",
+  "to": "122"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185d0"
+  },
+  "edgeId": "122_123",
+  "active": true,
+  "from": "122",
+  "name": "thackeraystreet_right",
+  "to": "123"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185d1"
+  },
+  "edgeId": "123_124",
+  "active": true,
+  "from": "123",
+  "name": "thackeraystreet_right",
+  "to": "124"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185d2"
+  },
+  "edgeId": "124_125",
+  "active": true,
+  "from": "124",
+  "name": "thackeraystreet_right",
+  "to": "125"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185d3"
+  },
+  "edgeId": "125_126",
+  "active": true,
+  "from": "125",
+  "name": "thackeraystreet_right",
+  "to": "126"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185d4"
+  },
+  "edgeId": "126_127",
+  "active": true,
+  "from": "126",
+  "name": "thackeraystreet_right",
+  "to": "127"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185d5"
+  },
+  "edgeId": "127_128",
+  "active": true,
+  "from": "127",
+  "name": "thackeraystreet_right",
+  "to": "128"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185d6"
+  },
+  "edgeId": "128_129",
+  "active": true,
+  "from": "128",
+  "name": "thackeraystreet_right",
+  "to": "129"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185d7"
+  },
+  "edgeId": "129_130",
+  "active": true,
+  "from": "129",
+  "name": "thackeraystreet_right",
+  "to": "130"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185d8"
+  },
+  "edgeId": "130_131",
+  "active": true,
+  "from": "130",
+  "name": "thackeraystreet_right",
+  "to": "131"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185d9"
+  },
+  "edgeId": "131_132",
+  "active": true,
+  "from": "131",
+  "name": "thackeraystreet_right",
+  "to": "132"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185da"
+  },
+  "edgeId": "132_133",
+  "active": true,
+  "from": "132",
+  "name": "thackeraystreet_right",
+  "to": "133"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185db"
+  },
+  "edgeId": "133_134",
+  "active": true,
+  "from": "133",
+  "name": "thackeraystreet_right",
+  "to": "134"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b1a7bd560c3fd185dc"
+  },
+  "edgeId": "134_134",
+  "active": true,
+  "from": "134",
+  "name": "thackeraystreet_right",
+  "to": "134"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd18615"
+  },
+  "edgeId": "135_136",
+  "active": true,
+  "from": "135",
+  "name": "ohara_right",
+  "to": "136"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd18616"
+  },
+  "edgeId": "136_137",
+  "active": true,
+  "from": "136",
+  "name": "ohara_right",
+  "to": "137"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd18617"
+  },
+  "edgeId": "137_138",
+  "active": true,
+  "from": "137",
+  "name": "ohara_right",
+  "to": "138"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd18618"
+  },
+  "edgeId": "138_139",
+  "active": true,
+  "from": "138",
+  "name": "ohara_right",
+  "to": "139"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd18619"
+  },
+  "edgeId": "139_140",
+  "active": true,
+  "from": "139",
+  "name": "ohara_right",
+  "to": "140"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd1861a"
+  },
+  "edgeId": "140_141",
+  "active": true,
+  "from": "140",
+  "name": "ohara_right",
+  "to": "141"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd1861b"
+  },
+  "edgeId": "141_142",
+  "active": true,
+  "from": "141",
+  "name": "ohara_right",
+  "to": "142"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd1861c"
+  },
+  "edgeId": "142_143",
+  "active": true,
+  "from": "142",
+  "name": "ohara_right",
+  "to": "143"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd1861d"
+  },
+  "edgeId": "143_144",
+  "active": true,
+  "from": "143",
+  "name": "ohara_right",
+  "to": "144"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd1861f"
+  },
+  "edgeId": "144_145",
+  "active": true,
+  "from": "144",
+  "name": "ohara_right",
+  "to": "145"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd18620"
+  },
+  "edgeId": "145_146",
+  "active": true,
+  "from": "145",
+  "name": "ohara_right",
+  "to": "146"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd18621"
+  },
+  "edgeId": "146_147",
+  "active": true,
+  "from": "146",
+  "name": "ohara_right",
+  "to": "147"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd18622"
+  },
+  "edgeId": "147_148",
+  "active": true,
+  "from": "147",
+  "name": "ohara_right",
+  "to": "148"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd18623"
+  },
+  "edgeId": "148_149",
+  "active": true,
+  "from": "148",
+  "name": "ohara_right",
+  "to": "149"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd18624"
+  },
+  "edgeId": "149_150",
+  "active": true,
+  "from": "149",
+  "name": "ohara_right",
+  "to": "150"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd18625"
+  },
+  "edgeId": "150_151",
+  "active": true,
+  "from": "150",
+  "name": "ohara_right",
+  "to": "151"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd18626"
+  },
+  "edgeId": "151_152",
+  "active": true,
+  "from": "151",
+  "name": "ohara_right",
+  "to": "152"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd18627"
+  },
+  "edgeId": "152_153",
+  "active": true,
+  "from": "152",
+  "name": "ohara_right",
+  "to": "153"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd18628"
+  },
+  "edgeId": "153_154",
+  "active": true,
+  "from": "153",
+  "name": "ohara_right",
+  "to": "154"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd1862a"
+  },
+  "edgeId": "154_155",
+  "active": true,
+  "from": "154",
+  "name": "ohara_right",
+  "to": "155"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd1862b"
+  },
+  "edgeId": "155_156",
+  "active": true,
+  "from": "155",
+  "name": "ohara_right",
+  "to": "156"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd1862c"
+  },
+  "edgeId": "156_157",
+  "active": true,
+  "from": "156",
+  "name": "ohara_right",
+  "to": "157"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd1862d"
+  },
+  "edgeId": "157_158",
+  "active": true,
+  "from": "157",
+  "name": "ohara_right",
+  "to": "158"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd1862e"
+  },
+  "edgeId": "158_159",
+  "active": true,
+  "from": "158",
+  "name": "ohara_right",
+  "to": "159"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd1862f"
+  },
+  "edgeId": "159_160",
+  "active": true,
+  "from": "159",
+  "name": "ohara_right",
+  "to": "160"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd18630"
+  },
+  "edgeId": "160_161",
+  "active": true,
+  "from": "160",
+  "name": "ohara_right",
+  "to": "161"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd18631"
+  },
+  "edgeId": "161_162",
+  "active": true,
+  "from": "161",
+  "name": "ohara_right",
+  "to": "162"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd18632"
+  },
+  "edgeId": "162_163",
+  "active": true,
+  "from": "162",
+  "name": "ohara_right",
+  "to": "163"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd18633"
+  },
+  "edgeId": "163_164",
+  "active": true,
+  "from": "163",
+  "name": "ohara_right",
+  "to": "164"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd18634"
+  },
+  "edgeId": "164_165",
+  "active": true,
+  "from": "164",
+  "name": "ohara_right",
+  "to": "165"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd18635"
+  },
+  "edgeId": "165_166",
+  "active": true,
+  "from": "165",
+  "name": "ohara_right",
+  "to": "166"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b3a7bd560c3fd18636"
+  },
+  "edgeId": "166_167",
+  "active": true,
+  "from": "166",
+  "name": "ohara_right",
+  "to": "167"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18637"
+  },
+  "edgeId": "167_168",
+  "active": true,
+  "from": "167",
+  "name": "ohara_right",
+  "to": "168"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18638"
+  },
+  "edgeId": "168_169",
+  "active": true,
+  "from": "168",
+  "name": "ohara_right",
+  "to": "169"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18639"
+  },
+  "edgeId": "169_170",
+  "active": true,
+  "from": "169",
+  "name": "ohara_right",
+  "to": "170"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd1863a"
+  },
+  "edgeId": "170_171",
+  "active": true,
+  "from": "170",
+  "name": "ohara_right",
+  "to": "171"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd1863b"
+  },
+  "edgeId": "171_172",
+  "active": true,
+  "from": "171",
+  "name": "ohara_right",
+  "to": "172"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd1863c"
+  },
+  "edgeId": "172_173",
+  "active": true,
+  "from": "172",
+  "name": "ohara_right",
+  "to": "173"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd1863d"
+  },
+  "edgeId": "173_174",
+  "active": true,
+  "from": "173",
+  "name": "ohara_right",
+  "to": "174"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd1863f"
+  },
+  "edgeId": "174_99",
+  "active": true,
+  "from": "174",
+  "name": "ohara_right",
+  "to": "99"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18640"
+  },
+  "edgeId": "99_175",
+  "active": true,
+  "from": "99",
+  "name": "ohara_right",
+  "to": "175"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18641"
+  },
+  "edgeId": "175_176",
+  "active": true,
+  "from": "175",
+  "name": "ohara_right",
+  "to": "176"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18642"
+  },
+  "edgeId": "176_177",
+  "active": true,
+  "from": "176",
+  "name": "ohara_right",
+  "to": "177"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18643"
+  },
+  "edgeId": "177_178",
+  "active": true,
+  "from": "177",
+  "name": "ohara_right",
+  "to": "178"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18644"
+  },
+  "edgeId": "178_179",
+  "active": true,
+  "from": "178",
+  "name": "ohara_right",
+  "to": "179"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18645"
+  },
+  "edgeId": "179_180",
+  "active": true,
+  "from": "179",
+  "name": "ohara_right",
+  "to": "180"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18646"
+  },
+  "edgeId": "180_181",
+  "active": true,
+  "from": "180",
+  "name": "ohara_right",
+  "to": "181"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18647"
+  },
+  "edgeId": "181_182",
+  "active": true,
+  "from": "181",
+  "name": "ohara_right",
+  "to": "182"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18648"
+  },
+  "edgeId": "182_183",
+  "active": true,
+  "from": "182",
+  "name": "ohara_right",
+  "to": "183"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18649"
+  },
+  "edgeId": "183_184",
+  "active": true,
+  "from": "183",
+  "name": "ohara_right",
+  "to": "184"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd1864a"
+  },
+  "edgeId": "184_185",
+  "active": true,
+  "from": "184",
+  "name": "ohara_right",
+  "to": "185"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd1864b"
+  },
+  "edgeId": "185_186",
+  "active": true,
+  "from": "185",
+  "name": "ohara_right",
+  "to": "186"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd1864c"
+  },
+  "edgeId": "186_187",
+  "active": true,
+  "from": "186",
+  "name": "ohara_right",
+  "to": "187"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd1864d"
+  },
+  "edgeId": "187_188",
+  "active": true,
+  "from": "187",
+  "name": "ohara_right",
+  "to": "188"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd1864e"
+  },
+  "edgeId": "188_189",
+  "active": true,
+  "from": "188",
+  "name": "ohara_right",
+  "to": "189"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd1864f"
+  },
+  "edgeId": "189_190",
+  "active": true,
+  "from": "189",
+  "name": "ohara_right",
+  "to": "190"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18650"
+  },
+  "edgeId": "190_62",
+  "active": true,
+  "from": "190",
+  "name": "ohara_right",
+  "to": "62"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b4a7bd560c3fd18651"
+  },
+  "edgeId": "62_62",
+  "active": true,
+  "from": "62",
+  "name": "ohara_right",
+  "to": "62"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd18676"
+  },
+  "edgeId": "172_191",
+  "active": true,
+  "from": "172",
+  "name": "thackeraystreet_left",
+  "to": "191"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd18677"
+  },
+  "edgeId": "191_192",
+  "active": true,
+  "from": "191",
+  "name": "thackeraystreet_left",
+  "to": "192"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd18678"
+  },
+  "edgeId": "192_193",
+  "active": true,
+  "from": "192",
+  "name": "thackeraystreet_left",
+  "to": "193"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd18679"
+  },
+  "edgeId": "193_194",
+  "active": true,
+  "from": "193",
+  "name": "thackeraystreet_left",
+  "to": "194"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd1867a"
+  },
+  "edgeId": "194_195",
+  "active": true,
+  "from": "194",
+  "name": "thackeraystreet_left",
+  "to": "195"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd1867b"
+  },
+  "edgeId": "195_196",
+  "active": true,
+  "from": "195",
+  "name": "thackeraystreet_left",
+  "to": "196"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b5a7bd560c3fd1867c"
+  },
+  "edgeId": "196_197",
+  "active": true,
+  "from": "196",
+  "name": "thackeraystreet_left",
+  "to": "197"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd1867d"
+  },
+  "edgeId": "197_198",
+  "active": true,
+  "from": "197",
+  "name": "thackeraystreet_left",
+  "to": "198"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd1867e"
+  },
+  "edgeId": "198_199",
+  "active": true,
+  "from": "198",
+  "name": "thackeraystreet_left",
+  "to": "199"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd1867f"
+  },
+  "edgeId": "199_200",
+  "active": true,
+  "from": "199",
+  "name": "thackeraystreet_left",
+  "to": "200"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd18680"
+  },
+  "edgeId": "200_201",
+  "active": true,
+  "from": "200",
+  "name": "thackeraystreet_left",
+  "to": "201"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd18681"
+  },
+  "edgeId": "201_202",
+  "active": true,
+  "from": "201",
+  "name": "thackeraystreet_left",
+  "to": "202"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd18682"
+  },
+  "edgeId": "202_203",
+  "active": true,
+  "from": "202",
+  "name": "thackeraystreet_left",
+  "to": "203"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd18683"
+  },
+  "edgeId": "203_204",
+  "active": true,
+  "from": "203",
+  "name": "thackeraystreet_left",
+  "to": "204"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd18684"
+  },
+  "edgeId": "204_205",
+  "active": true,
+  "from": "204",
+  "name": "thackeraystreet_left",
+  "to": "205"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd18685"
+  },
+  "edgeId": "205_206",
+  "active": true,
+  "from": "205",
+  "name": "thackeraystreet_left",
+  "to": "206"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd18686"
+  },
+  "edgeId": "206_207",
+  "active": true,
+  "from": "206",
+  "name": "thackeraystreet_left",
+  "to": "207"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd18687"
+  },
+  "edgeId": "207_208",
+  "active": true,
+  "from": "207",
+  "name": "thackeraystreet_left",
+  "to": "208"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd18688"
+  },
+  "edgeId": "208_209",
+  "active": true,
+  "from": "208",
+  "name": "thackeraystreet_left",
+  "to": "209"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd18689"
+  },
+  "edgeId": "209_210",
+  "active": true,
+  "from": "209",
+  "name": "thackeraystreet_left",
+  "to": "210"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd1868a"
+  },
+  "edgeId": "210_211",
+  "active": true,
+  "from": "210",
+  "name": "thackeraystreet_left",
+  "to": "211"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd1868b"
+  },
+  "edgeId": "211_212",
+  "active": true,
+  "from": "211",
+  "name": "thackeraystreet_left",
+  "to": "212"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd1868c"
+  },
+  "edgeId": "212_213",
+  "active": true,
+  "from": "212",
+  "name": "thackeraystreet_left",
+  "to": "213"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd1868d"
+  },
+  "edgeId": "213_214",
+  "active": true,
+  "from": "213",
+  "name": "thackeraystreet_left",
+  "to": "214"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd1868e"
+  },
+  "edgeId": "214_215",
+  "active": true,
+  "from": "214",
+  "name": "thackeraystreet_left",
+  "to": "215"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd1868f"
+  },
+  "edgeId": "215_216",
+  "active": true,
+  "from": "215",
+  "name": "thackeraystreet_left",
+  "to": "216"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd18690"
+  },
+  "edgeId": "216_217",
+  "active": true,
+  "from": "216",
+  "name": "thackeraystreet_left",
+  "to": "217"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd18691"
+  },
+  "edgeId": "217_218",
+  "active": true,
+  "from": "217",
+  "name": "thackeraystreet_left",
+  "to": "218"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd18692"
+  },
+  "edgeId": "218_219",
+  "active": true,
+  "from": "218",
+  "name": "thackeraystreet_left",
+  "to": "219"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd18693"
+  },
+  "edgeId": "219_220",
+  "active": true,
+  "from": "219",
+  "name": "thackeraystreet_left",
+  "to": "220"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd18694"
+  },
+  "edgeId": "220_221",
+  "active": true,
+  "from": "220",
+  "name": "thackeraystreet_left",
+  "to": "221"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd18695"
+  },
+  "edgeId": "221_222",
+  "active": true,
+  "from": "221",
+  "name": "thackeraystreet_left",
+  "to": "222"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd18696"
+  },
+  "edgeId": "222_223",
+  "active": true,
+  "from": "222",
+  "name": "thackeraystreet_left",
+  "to": "223"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd18697"
+  },
+  "edgeId": "223_224",
+  "active": true,
+  "from": "223",
+  "name": "thackeraystreet_left",
+  "to": "224"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd18698"
+  },
+  "edgeId": "224_225",
+  "active": true,
+  "from": "224",
+  "name": "thackeraystreet_left",
+  "to": "225"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b6a7bd560c3fd18699"
+  },
+  "edgeId": "225_225",
+  "active": true,
+  "from": "225",
+  "name": "thackeraystreet_left",
+  "to": "225"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186dd"
+  },
+  "edgeId": "226_227",
+  "active": true,
+  "from": "226",
+  "name": "fifthave_left",
+  "to": "227"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186de"
+  },
+  "edgeId": "227_228",
+  "active": true,
+  "from": "227",
+  "name": "fifthave_left",
+  "to": "228"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186df"
+  },
+  "edgeId": "228_229",
+  "active": true,
+  "from": "228",
+  "name": "fifthave_left",
+  "to": "229"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186e0"
+  },
+  "edgeId": "229_230",
+  "active": true,
+  "from": "229",
+  "name": "fifthave_left",
+  "to": "230"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186e1"
+  },
+  "edgeId": "230_231",
+  "active": true,
+  "from": "230",
+  "name": "fifthave_left",
+  "to": "231"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186e2"
+  },
+  "edgeId": "231_232",
+  "active": true,
+  "from": "231",
+  "name": "fifthave_left",
+  "to": "232"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186e3"
+  },
+  "edgeId": "232_233",
+  "active": true,
+  "from": "232",
+  "name": "fifthave_left",
+  "to": "233"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186e4"
+  },
+  "edgeId": "233_234",
+  "active": true,
+  "from": "233",
+  "name": "fifthave_left",
+  "to": "234"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186e5"
+  },
+  "edgeId": "234_235",
+  "active": true,
+  "from": "234",
+  "name": "fifthave_left",
+  "to": "235"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186e6"
+  },
+  "edgeId": "235_236",
+  "active": true,
+  "from": "235",
+  "name": "fifthave_left",
+  "to": "236"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186e7"
+  },
+  "edgeId": "236_237",
+  "active": true,
+  "from": "236",
+  "name": "fifthave_left",
+  "to": "237"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186e8"
+  },
+  "edgeId": "237_238",
+  "active": true,
+  "from": "237",
+  "name": "fifthave_left",
+  "to": "238"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186e9"
+  },
+  "edgeId": "238_239",
+  "active": true,
+  "from": "238",
+  "name": "fifthave_left",
+  "to": "239"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186ea"
+  },
+  "edgeId": "239_240",
+  "active": true,
+  "from": "239",
+  "name": "fifthave_left",
+  "to": "240"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186eb"
+  },
+  "edgeId": "240_241",
+  "active": true,
+  "from": "240",
+  "name": "fifthave_left",
+  "to": "241"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186ec"
+  },
+  "edgeId": "241_242",
+  "active": true,
+  "from": "241",
+  "name": "fifthave_left",
+  "to": "242"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186ed"
+  },
+  "edgeId": "242_243",
+  "active": true,
+  "from": "242",
+  "name": "fifthave_left",
+  "to": "243"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186ee"
+  },
+  "edgeId": "243_244",
+  "active": true,
+  "from": "243",
+  "name": "fifthave_left",
+  "to": "244"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186ef"
+  },
+  "edgeId": "244_245",
+  "active": true,
+  "from": "244",
+  "name": "fifthave_left",
+  "to": "245"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186f0"
+  },
+  "edgeId": "245_246",
+  "active": true,
+  "from": "245",
+  "name": "fifthave_left",
+  "to": "246"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186f1"
+  },
+  "edgeId": "246_247",
+  "active": true,
+  "from": "246",
+  "name": "fifthave_left",
+  "to": "247"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186f2"
+  },
+  "edgeId": "247_248",
+  "active": true,
+  "from": "247",
+  "name": "fifthave_left",
+  "to": "248"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186f3"
+  },
+  "edgeId": "248_249",
+  "active": true,
+  "from": "248",
+  "name": "fifthave_left",
+  "to": "249"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186f4"
+  },
+  "edgeId": "249_250",
+  "active": true,
+  "from": "249",
+  "name": "fifthave_left",
+  "to": "250"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186f5"
+  },
+  "edgeId": "250_251",
+  "active": true,
+  "from": "250",
+  "name": "fifthave_left",
+  "to": "251"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186f6"
+  },
+  "edgeId": "251_252",
+  "active": true,
+  "from": "251",
+  "name": "fifthave_left",
+  "to": "252"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186f7"
+  },
+  "edgeId": "252_253",
+  "active": true,
+  "from": "252",
+  "name": "fifthave_left",
+  "to": "253"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186f8"
+  },
+  "edgeId": "253_225",
+  "active": true,
+  "from": "253",
+  "name": "fifthave_left",
+  "to": "225"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186f9"
+  },
+  "edgeId": "225_254",
+  "active": true,
+  "from": "225",
+  "name": "fifthave_left",
+  "to": "254"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186fa"
+  },
+  "edgeId": "254_255",
+  "active": true,
+  "from": "254",
+  "name": "fifthave_left",
+  "to": "255"
+},
+{
+  "_id": {
+    "$oid": "68cfa4b9a7bd560c3fd186fb"
+  },
+  "edgeId": "255_134",
+  "active": true,
+  "from": "255",
+  "name": "fifthave_left",
+  "to": "134"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd186fc"
+  },
+  "edgeId": "134_256",
+  "active": true,
+  "from": "134",
+  "name": "fifthave_left",
+  "to": "256"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd186fd"
+  },
+  "edgeId": "256_257",
+  "active": true,
+  "from": "256",
+  "name": "fifthave_left",
+  "to": "257"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd186fe"
+  },
+  "edgeId": "257_258",
+  "active": true,
+  "from": "257",
+  "name": "fifthave_left",
+  "to": "258"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd186ff"
+  },
+  "edgeId": "258_259",
+  "active": true,
+  "from": "258",
+  "name": "fifthave_left",
+  "to": "259"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd18700"
+  },
+  "edgeId": "259_260",
+  "active": true,
+  "from": "259",
+  "name": "fifthave_left",
+  "to": "260"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd18701"
+  },
+  "edgeId": "260_261",
+  "active": true,
+  "from": "260",
+  "name": "fifthave_left",
+  "to": "261"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd18702"
+  },
+  "edgeId": "261_262",
+  "active": true,
+  "from": "261",
+  "name": "fifthave_left",
+  "to": "262"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd18703"
+  },
+  "edgeId": "262_263",
+  "active": true,
+  "from": "262",
+  "name": "fifthave_left",
+  "to": "263"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd18704"
+  },
+  "edgeId": "263_264",
+  "active": true,
+  "from": "263",
+  "name": "fifthave_left",
+  "to": "264"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd18705"
+  },
+  "edgeId": "264_265",
+  "active": true,
+  "from": "264",
+  "name": "fifthave_left",
+  "to": "265"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd18706"
+  },
+  "edgeId": "265_266",
+  "active": true,
+  "from": "265",
+  "name": "fifthave_left",
+  "to": "266"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd18707"
+  },
+  "edgeId": "266_267",
+  "active": true,
+  "from": "266",
+  "name": "fifthave_left",
+  "to": "267"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd18708"
+  },
+  "edgeId": "267_268",
+  "active": true,
+  "from": "267",
+  "name": "fifthave_left",
+  "to": "268"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd18709"
+  },
+  "edgeId": "268_269",
+  "active": true,
+  "from": "268",
+  "name": "fifthave_left",
+  "to": "269"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd1870a"
+  },
+  "edgeId": "269_270",
+  "active": true,
+  "from": "269",
+  "name": "fifthave_left",
+  "to": "270"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd1870b"
+  },
+  "edgeId": "270_271",
+  "active": true,
+  "from": "270",
+  "name": "fifthave_left",
+  "to": "271"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd1870c"
+  },
+  "edgeId": "271_272",
+  "active": true,
+  "from": "271",
+  "name": "fifthave_left",
+  "to": "272"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd1870d"
+  },
+  "edgeId": "272_273",
+  "active": true,
+  "from": "272",
+  "name": "fifthave_left",
+  "to": "273"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd1870e"
+  },
+  "edgeId": "272_96",
+  "active": true,
+  "from": "272",
+  "name": "fifthave_left",
+  "to": "96"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd1870f"
+  },
+  "edgeId": "273_274",
+  "active": true,
+  "from": "273",
+  "name": "fifthave_left",
+  "to": "274"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd18710"
+  },
+  "edgeId": "274_275",
+  "active": true,
+  "from": "274",
+  "name": "fifthave_left",
+  "to": "275"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd18711"
+  },
+  "edgeId": "275_276",
+  "active": true,
+  "from": "275",
+  "name": "fifthave_left",
+  "to": "276"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd18712"
+  },
+  "edgeId": "276_277",
+  "active": true,
+  "from": "276",
+  "name": "fifthave_left",
+  "to": "277"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd18713"
+  },
+  "edgeId": "277_278",
+  "active": true,
+  "from": "277",
+  "name": "fifthave_left",
+  "to": "278"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd18714"
+  },
+  "edgeId": "278_279",
+  "active": true,
+  "from": "278",
+  "name": "fifthave_left",
+  "to": "279"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd18715"
+  },
+  "edgeId": "279_280",
+  "active": true,
+  "from": "279",
+  "name": "fifthave_left",
+  "to": "280"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd18716"
+  },
+  "edgeId": "280_281",
+  "active": true,
+  "from": "280",
+  "name": "fifthave_left",
+  "to": "281"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd18717"
+  },
+  "edgeId": "281_282",
+  "active": true,
+  "from": "281",
+  "name": "fifthave_left",
+  "to": "282"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd18718"
+  },
+  "edgeId": "282_283",
+  "active": true,
+  "from": "282",
+  "name": "fifthave_left",
+  "to": "283"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd18719"
+  },
+  "edgeId": "283_284",
+  "active": true,
+  "from": "283",
+  "name": "fifthave_left",
+  "to": "284"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd1871a"
+  },
+  "edgeId": "284_285",
+  "active": true,
+  "from": "284",
+  "name": "fifthave_left",
+  "to": "285"
+},
+{
+  "_id": {
+    "$oid": "68cfa4baa7bd560c3fd1871b"
+  },
+  "edgeId": "285_286",
+  "active": true,
+  "from": "285",
+  "name": "fifthave_left",
+  "to": "286"
+},
+{
+  "_id": {
+    "$oid": "68cfa4bba7bd560c3fd1871c"
+  },
+  "edgeId": "286_287",
+  "active": true,
+  "from": "286",
+  "name": "fifthave_left",
+  "to": "287"
+},
+{
+  "_id": {
+    "$oid": "68cfa4bba7bd560c3fd1871d"
+  },
+  "edgeId": "287_288",
+  "active": true,
+  "from": "287",
+  "name": "fifthave_left",
+  "to": "288"
+},
+{
+  "_id": {
+    "$oid": "68cfa4bba7bd560c3fd1871e"
+  },
+  "edgeId": "288_289",
+  "active": true,
+  "from": "288",
+  "name": "fifthave_left",
+  "to": "289"
+},
+{
+  "_id": {
+    "$oid": "68cfa4bba7bd560c3fd1871f"
+  },
+  "edgeId": "289_290",
+  "active": true,
+  "from": "289",
+  "name": "fifthave_left",
+  "to": "290"
+},
+{
+  "_id": {
+    "$oid": "68cfa4bba7bd560c3fd18720"
+  },
+  "edgeId": "290_291",
+  "active": true,
+  "from": "290",
+  "name": "fifthave_left",
+  "to": "291"
+},
+{
+  "_id": {
+    "$oid": "68cfa4bba7bd560c3fd18721"
+  },
+  "edgeId": "291_292",
+  "active": true,
+  "from": "291",
+  "name": "fifthave_left",
+  "to": "292"
+},
+{
+  "_id": {
+    "$oid": "68cfa4bba7bd560c3fd18722"
+  },
+  "edgeId": "292_292",
+  "active": true,
+  "from": "292",
+  "name": "fifthave_left",
+  "to": "292"
+},
+{
+  "_id": {
+    "$oid": "68cfa4bba7bd560c3fd18724"
+  },
+  "edgeId": "293_110",
+  "active": true,
+  "from": "293",
+  "name": "entrance_Thackeray Hall_to_110",
+  "to": "110"
+},
+{
+  "_id": {
+    "$oid": "68cfa4bba7bd560c3fd18726"
+  },
+  "edgeId": "294_50",
+  "active": true,
+  "from": "294",
+  "name": "entrance_Old Engineering Hall_to_50",
+  "to": "50"
+},
+{
+  "_id": {
+    "$oid": "68cfa4bba7bd560c3fd18728"
+  },
+  "edgeId": "295_40",
+  "active": true,
+  "from": "295",
+  "name": "entrance_Allen Hall_to_40",
+  "to": "40"
+},
+{
+  "_id": {
+    "$oid": "68cfa4bba7bd560c3fd1872a"
+  },
+  "edgeId": "296_58",
+  "active": true,
+  "from": "296",
+  "name": "entrance_Thaw Hall_to_58",
+  "to": "58"
+},
+{
+  "_id": {
+    "$oid": "68cfa4bba7bd560c3fd1872c"
+  },
+  "edgeId": "297_226",
+  "active": true,
+  "from": "297",
+  "name": "entrance_Public Health Building_to_226",
+  "to": "226"
+},
+{
+  "_id": {
+    "$oid": "68cfa4bba7bd560c3fd1872e"
+  },
+  "edgeId": "298_232",
+  "active": true,
+  "from": "298",
+  "name": "entrance_Public Health Building_to_232",
+  "to": "232"
+}]

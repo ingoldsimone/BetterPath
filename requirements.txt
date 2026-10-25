@@ -1,19 +1,25 @@
 # FastAPI and web server dependencies
-fastapi==0.104.1
-uvicorn[standard]==0.24.0
-python-multipart==0.0.6
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+
+# Database (MongoDB async driver)
+motor>=3.3
 
 # Image processing
-Pillow==10.1.0
+Pillow>=10.4
 
-# HTTP requests for Gemini API
-requests==2.31.0
+# Gemini API
+google-generativeai>=0.8
+
+# HTTP requests
+requests>=2.31
 
 # Navigation and geospatial
-numpy==1.24.3
-scipy==1.11.4
-pyproj==3.6.1
+numpy>=1.26
+scipy>=1.11
+pyproj>=3.6
 
 # Optional: For development and testing
-pytest==7.4.3
-pytest-asyncio==0.21.1
+pytest>=7.4
+pytest-asyncio>=0.21
