@@ -16,7 +16,7 @@ from backend.models.obstacle import Obstacle, Coordinates
 from backend.models.graph_node import GraphNode
 from backend.models.graph_edge import GraphEdge
 from backend.models.database import obstacles_collection, nodes_collection, edges_collection
-from gemini_obstacle_detector import GeminiObstacleDetector
+from gemini_obstacle_detector import GeminiObstacleDetector, DemoObstacleDetector
 
 app = FastAPI(title="Hackathon Navigation API")
 
@@ -31,15 +31,24 @@ app.add_middleware(
 # Mount static files for frontend
 app.mount("/frontend", StaticFiles(directory="frontend"), name="frontend")
 
-# Initialize Gemini detector with proper error handling
-try:
-    gemini_detector = GeminiObstacleDetector()
+# Initialize Gemini detector with proper error handling.
+# Without GEMINI_API_KEY, use demo mode: photos are not analyzed and every
+# report is accepted as an obstacle, so the reporting flow can still be shown.
+gemini_demo_mode = False
+if os.getenv("GEMINI_API_KEY"):
+    try:
+        gemini_detector = GeminiObstacleDetector()
+        gemini_available = True
+        print(f"✅ Gemini obstacle detector initialized successfully (model: {gemini_detector.model_name})")
+    except Exception as e:
+        print(f"⚠️  Warning: Gemini obstacle detector not available: {e}")
+        gemini_detector = None
+        gemini_available = False
+else:
+    gemini_detector = DemoObstacleDetector()
     gemini_available = True
-    print("✅ Gemini obstacle detector initialized successfully")
-except Exception as e:
-    print(f"⚠️  Warning: Gemini obstacle detector not available: {e}")
-    gemini_detector = None
-    gemini_available = False
+    gemini_demo_mode = True
+    print("GEMINI_API_KEY not set: obstacle detection in demo mode (photos are not analyzed)")
 
 # Initialize navigation service on startup
 @app.on_event("startup")
@@ -69,9 +78,10 @@ async def get_buildings():
 async def root():
     """Health check endpoint"""
     return {
-        "message": "Aura-maxx Navigation API is running",
+        "message": "BetterPath Navigation API is running",
         "status": "healthy",
-        "gemini_available": gemini_available
+        "gemini_available": gemini_available,
+        "gemini_demo_mode": gemini_demo_mode
     }
 
 # Obstacle Endpoints 
@@ -272,11 +282,14 @@ async def test_gemini_simple():
     try:
         if not gemini_available or not gemini_detector:
             return {"status": "error", "message": "Gemini not available"}
+        if gemini_demo_mode:
+            return {"status": "demo", "message": "Demo mode: GEMINI_API_KEY not set, no API call made"}
         
         # Test with a simple text prompt
-        import google.generativeai as genai
-        model = genai.GenerativeModel("gemini-1.5-flash")
-        response = model.generate_content("Respond with exactly this JSON: {\"test\": \"success\"}")
+        response = gemini_detector.client.models.generate_content(
+            model=gemini_detector.model_name,
+            contents="Respond with exactly this JSON: {\"test\": \"success\"}"
+        )
         
         return {
             "status": "success",
@@ -294,8 +307,16 @@ async def get_gemini_status():
     """
     Check if Gemini obstacle detection service is available
     """
+    if gemini_demo_mode:
+        return {
+            "gemini_available": gemini_available,
+            "demo_mode": True,
+            "service_status": "demo",
+            "message": "Demo mode: GEMINI_API_KEY not set, photos are not analyzed"
+        }
     return {
         "gemini_available": gemini_available,
+        "demo_mode": False,
         "service_status": "online" if gemini_available else "offline",
         "message": "Gemini obstacle detection is ready" if gemini_available else "Gemini service unavailable - check API key configuration"
     }

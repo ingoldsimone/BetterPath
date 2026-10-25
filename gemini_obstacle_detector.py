@@ -1,10 +1,29 @@
 import base64
 import json
-import google.generativeai as genai
+from google import genai
 import os
 from PIL import Image
 import io
 import re
+
+# "gemini-flash-latest" always points to Google's newest stable Flash model,
+# so it keeps working when older models are retired. Override with GEMINI_MODEL.
+DEFAULT_MODEL = "gemini-flash-latest"
+
+
+class DemoObstacleDetector:
+    """Stand-in used when GEMINI_API_KEY is not set, so the app can be demoed
+    without a key. It does not analyze the photo: every report is accepted as
+    an obstacle (and labelled as demo mode) so it still affects routing."""
+
+    def verify_obstacle(self, image_bytes: bytes, coords: tuple):
+        return {
+            "is_obstacle": True,
+            "obstacle_type": "demo mode (no Gemini API key, photo not analyzed)",
+            "confidence": 1.0,
+            "severity": "MEDIUM",
+        }
+
 
 class GeminiObstacleDetector:
     def __init__(self):
@@ -13,15 +32,8 @@ class GeminiObstacleDetector:
         if not api_key:
             raise ValueError("Missing GEMINI_API_KEY environment variable")
         
-        genai.configure(api_key=api_key)
-        # try different model names - use the most current one available
-        try:
-            self.model = genai.GenerativeModel("gemini-1.5-flash")
-        except Exception:
-            try:
-                self.model = genai.GenerativeModel("gemini-pro-vision")
-            except Exception:
-                self.model = genai.GenerativeModel("gemini-pro")
+        self.client = genai.Client(api_key=api_key)
+        self.model_name = os.getenv("GEMINI_MODEL", DEFAULT_MODEL)
 
     def verify_obstacle(self, image_bytes: bytes, coords: tuple):
         try:
@@ -52,12 +64,12 @@ class GeminiObstacleDetector:
             
             # generate content with better error handling
             try:
-                response = self.model.generate_content([prompt, image])
+                response = self.client.models.generate_content(model=self.model_name, contents=[prompt, image])
                 print(f"Received response from Gemini")
                 
                 # check for safety blocks
-                if hasattr(response, 'prompt_feedback') and response.prompt_feedback:
-                    if hasattr(response.prompt_feedback, 'block_reason'):
+                if getattr(response, 'prompt_feedback', None):
+                    if getattr(response.prompt_feedback, 'block_reason', None):
                         print(f"Content blocked: {response.prompt_feedback.block_reason}")
                         return self._create_error_response(f"Content blocked: {response.prompt_feedback.block_reason}")
 
@@ -261,7 +273,7 @@ Rules:
         """.strip()
 
         try: #try catch for errors
-            resp = self.model.generate_content(prompt)
+            resp = self.client.models.generate_content(model=self.model_name, contents=prompt)
             txt = (getattr(resp, "text", "") or "").strip()
         except Exception as e:
             return {"error": f"Gemini error: {e}"}
@@ -309,11 +321,13 @@ def test_gemini_connection():
             print("No API key found")
             return False
             
-        genai.configure(api_key=api_key)
-        model = genai.GenerativeModel("gemini-1.5-flash")
-        
+        client = genai.Client(api_key=api_key)
+
         #simple text test
-        response = model.generate_content("Say 'Hello, API is working!'")
+        response = client.models.generate_content(
+            model=os.getenv("GEMINI_MODEL", DEFAULT_MODEL),
+            contents="Say 'Hello, API is working!'",
+        )
         print(f"API Test Response: {response.text}")
         return True
         

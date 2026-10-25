@@ -1,6 +1,3 @@
-mapboxgl.accessToken =
-  "pk.eyJ1IjoiZGVpYW5vdnZ2IiwiYSI6ImNtZnR0Zm02YjBqd3kycXExMDIyZnBweTEifQ.d9eaakH2hSi0i-djIqrk0A"
-// this is vlad's key. since it is connected to my credit card, please, do not abuse it and create your own keys
 navigator.geolocation.getCurrentPosition(successLocation, errorLocation, {
   enableHighAccuracy: true
 });
@@ -65,14 +62,14 @@ function setupBuildingAutocomplete() {
 }
 
 function setupMap(center) {
-  map = new mapboxgl.Map({
+  map = new maplibregl.Map({
     container: "map",
-    style: "mapbox://styles/mapbox/streets-v11",
+    style: "https://tiles.openfreemap.org/styles/liberty",
     center: center,
     zoom: 15
   });
   
-  const nav = new mapboxgl.NavigationControl();
+  const nav = new maplibregl.NavigationControl();
   map.addControl(nav);
   
   map.on("load", () => {
@@ -149,9 +146,9 @@ function loadAccessibilityMarkers() {
       <div class="coord">[${coords[0].toFixed(5)}, ${coords[1].toFixed(5)}]</div>
     `;
 
-    new mapboxgl.Marker({ element: el })
+    new maplibregl.Marker({ element: el })
       .setLngLat(coords)
-      .setPopup(new mapboxgl.Popup({ offset: 12 }).setHTML(popupHtml))
+      .setPopup(new maplibregl.Popup({ offset: 12 }).setHTML(popupHtml))
       .addTo(map);
   });
 }
@@ -219,18 +216,18 @@ async function getDirections() {
       const startCoord = coordinates[0];
       const endCoord = coordinates[coordinates.length - 1];
       
-      new mapboxgl.Marker({ color: "green" })
+      new maplibregl.Marker({ color: "green" })
         .setLngLat(startCoord)
-        .setPopup(new mapboxgl.Popup().setHTML(`<strong>Start:</strong> ${fromBuilding}`))
+        .setPopup(new maplibregl.Popup().setHTML(`<strong>Start:</strong> ${fromBuilding}`))
         .addTo(map);
         
-      new mapboxgl.Marker({ color: "red" })
+      new maplibregl.Marker({ color: "red" })
         .setLngLat(endCoord)
-        .setPopup(new mapboxgl.Popup().setHTML(`<strong>Destination:</strong> ${toBuilding}`))
+        .setPopup(new maplibregl.Popup().setHTML(`<strong>Destination:</strong> ${toBuilding}`))
         .addTo(map);
       
       // Fit map to route bounds
-      const bounds = new mapboxgl.LngLatBounds();
+      const bounds = new maplibregl.LngLatBounds();
       coordinates.forEach(coord => bounds.extend(coord));
       map.fitBounds(bounds, { padding: 50 });
       
@@ -269,7 +266,7 @@ function clearRoute() {
   }
   
   // Remove existing markers (except accessibility markers)
-  const markers = document.querySelectorAll('.mapboxgl-marker:not(.ada-marker)');
+  const markers = document.querySelectorAll('.maplibregl-marker:not(.ada-marker)');
   markers.forEach(marker => {
     if (!marker.parentElement.classList.contains('ada-marker')) {
       marker.remove();
@@ -278,3 +275,193 @@ function clearRoute() {
   
   routeVisible = false;
 }
+
+function openObstaclePopup() {
+  document.getElementById('obstaclePopup').classList.add('show');
+  getCurrentGPS();
+}
+
+function closeObstaclePopup() {
+  document.getElementById('obstaclePopup').classList.remove('show');
+  document.getElementById('obstacleDescription').value = '';
+  document.getElementById('photoPreview').style.display = 'none';
+  document.getElementById('cameraInput').value = '';
+}
+
+function triggerCamera() {
+  document.getElementById('cameraInput').click();
+}
+
+function previewPhoto(event) {
+  const file = event.target.files[0];
+  if (file) {
+    const reader = new FileReader();
+    reader.onload = function(e) {
+      const preview = document.getElementById('photoPreview');
+      preview.src = e.target.result;
+      preview.style.display = 'block';
+    };
+    reader.readAsDataURL(file);
+  }
+}
+
+function getCurrentGPS() {
+  const gpsDisplay = document.getElementById('gpsCoords');
+
+  if (!navigator.geolocation) {
+    gpsDisplay.textContent = 'GPS not supported by this browser.';
+    return;
+  }
+
+  gpsDisplay.textContent = 'Getting current location...';
+
+  navigator.geolocation.getCurrentPosition(
+    function(position) {
+      const lat = position.coords.latitude.toFixed(6);
+      const lng = position.coords.longitude.toFixed(6);
+      gpsDisplay.innerHTML = `Latitude: ${lat}<br>Longitude: ${lng}`;
+      currentPosition = { lat: parseFloat(lat), lng: parseFloat(lng) };
+    },
+    function(error) {
+      console.warn('Geolocation failed, falling back to map center.', error);
+      const center = map.getCenter();
+      const lat = center.lat.toFixed(6);
+      const lng = center.lng.toFixed(6);
+      gpsDisplay.innerHTML = `Latitude: ${lat}<br>Longitude: ${lng}`;
+      currentPosition = { lat: parseFloat(lat), lng: parseFloat(lng) };
+    },
+    {
+      enableHighAccuracy: true,
+      timeout: 8000,
+      maximumAge: 0
+    }
+  );
+}
+
+
+async function submitObstacle() {
+  const description = document.getElementById('obstacleDescription').value;
+  const photoFile = document.getElementById('cameraInput').files[0];
+
+  if (!description.trim()) {
+    alert('Please describe the obstacle before submitting.');
+    return;
+  }
+  if (!photoFile) {
+    alert('Please take a photo of the obstacle before submitting.');
+    return;
+  }
+
+  if (!currentPosition) { ///relaxed requirements
+    const center = map.getCenter();
+    currentPosition = { lat: center.lat, lng: center.lng };
+    //alert('GPS location is required. Please wait for location to be detected.');
+  }
+
+  const submitBtn = document.querySelector('.submit-btn');
+  const originalText = submitBtn.textContent;
+  submitBtn.textContent = 'Compressing...';
+  submitBtn.disabled = true;
+
+  try {
+    // Compress before upload
+    const compressedFile = await compressImage(photoFile, 800, 0.7);
+
+    const formData = new FormData();
+    formData.append('image', compressedFile);
+    formData.append('gps_coordinates', JSON.stringify({
+      lat: currentPosition.lat,
+      lng: currentPosition.lng
+    }));
+    formData.append('description', description);
+
+    const response = await fetch('http://127.0.0.1:8000/report-obstacle', {
+      method: 'POST',
+      body: formData
+    });
+
+    if (!response.ok) {
+      let errorMsg;
+      try {
+        const errorData = await response.json();
+        errorMsg = errorData.detail || `HTTP error! status: ${response.status}`;
+      } catch {
+        errorMsg = `Non-JSON error response (status ${response.status})`;
+      }
+      throw new Error(errorMsg);
+    }
+
+    const result = await response.json();
+
+    if (result.analysis.is_obstacle) {
+      alert(`Obstacle detected!\nType: ${result.analysis.obstacle_type}\nConfidence: ${result.analysis.confidence}`);
+    } else {
+      alert(`No obstacle detected.\nThe way looks clear.`);
+    }
+
+    console.log("AI Result:", result);
+    closeObstaclePopup();
+
+  } catch (error) {
+    console.error('Error submitting obstacle report:', error);
+    alert(`Error: ${error.message}`);
+  } finally {
+    submitBtn.textContent = originalText;
+    submitBtn.disabled = false;
+  }
+}
+
+// Add function to check Gemini service status
+async function checkGeminiStatus() {
+  try {
+    const response = await fetch('http://127.0.0.1:8000/gemini-status');  // ✅ absolute URL
+    const status = await response.json();
+    
+    if (!status.gemini_available) {
+      console.warn('Gemini obstacle detection service is not available');
+    }
+    
+    return status.gemini_available;
+  } catch (error) {
+    console.error('Error checking Gemini status:', error);
+    return false;
+  }
+}
+
+async function compressImage(file, maxWidth = 800, quality = 0.7) {
+  return new Promise((resolve, reject) => {
+    const reader = new FileReader();
+    reader.readAsDataURL(file);
+
+    reader.onload = event => {
+      const img = new Image();
+      img.src = event.target.result;
+
+      img.onload = () => {
+        const canvas = document.createElement("canvas");
+        const scaleSize = maxWidth / img.width;
+        canvas.width = maxWidth;
+        canvas.height = img.height * scaleSize;
+
+        const ctx = canvas.getContext("2d");
+        ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+
+        canvas.toBlob(
+          blob => {
+            resolve(new File([blob], file.name, { type: "image/jpeg" }));
+          },
+          "image/jpeg",
+          quality // compression quality (0–1)
+        );
+      };
+
+      img.onerror = reject;
+    };
+    reader.onerror = reject;
+  });
+}
+
+// Check service status when page loads
+document.addEventListener('DOMContentLoaded', function() {
+  checkGeminiStatus();
+});
